@@ -1,0 +1,2160 @@
+[
+  {
+    "date": "2025-05-09",
+    "systems": 360,
+    "allegiance": {
+      "Federation": 7839,
+      "Independent": 38613,
+      "Empire": 10765,
+      "Alliance": 2586
+    },
+    "fleet_carriers": 35814,
+    "population": 6791110227206,
+    "powerplay": {
+      "Edmund Mahon": 5390,
+      "Aisling Duval": 7103,
+      "Yuri Grom": 5269,
+      "Felicia Winters": 3250,
+      "Li Yong-Rui": 5337,
+      "Denton Patreus": 3078,
+      "A. Lavigny-Duval": 6154,
+      "Pranav Antal": 4010,
+      "Archon Delaine": 2660,
+      "Zemina Torval": 4194,
+      "Jerome Archer": 4152,
+      "Nakato Kaine": 3071
+    }
+  },
+  {
+    "date": "2025-05-10",
+    "systems": 318,
+    "allegiance": {
+      "Federation": 7839,
+      "Independent": 38613,
+      "Empire": 10765,
+      "Alliance": 2586
+    },
+    "fleet_carriers": 35814,
+    "population": 6791110227206,
+    "powerplay": {
+      "Edmund Mahon": 5390,
+      "Aisling Duval": 7103,
+      "Yuri Grom": 5269,
+      "Felicia Winters": 3250,
+      "Li Yong-Rui": 5337,
+      "Denton Patreus": 3078,
+      "A. Lavigny-Duval": 6154,
+      "Pranav Antal": 4010,
+      "Archon Delaine": 2660,
+      "Zemina Torval": 4194,
+      "Jerome Archer": 4152,
+      "Nakato Kaine": 3071
+    }
+  },
+  {
+    "date": "2025-05-11",
+    "systems": 318,
+    "allegiance": {
+      "Federation": 7916,
+      "Independent": 39009,
+      "Empire": 10900,
+      "Alliance": 2616
+    },
+    "fleet_carriers": 35867,
+    "population": 6805468064988,
+    "powerplay": {
+      "Edmund Mahon": 5390,
+      "Aisling Duval": 7103,
+      "Yuri Grom": 5269,
+      "Felicia Winters": 3250,
+      "Li Yong-Rui": 5337,
+      "Denton Patreus": 3078,
+      "A. Lavigny-Duval": 6154,
+      "Pranav Antal": 4010,
+      "Archon Delaine": 2660,
+      "Zemina Torval": 4194,
+      "Jerome Archer": 4152,
+      "Nakato Kaine": 3071
+    }
+  },
+  {
+    "date": "2025-05-12",
+    "systems": 297,
+    "allegiance": {
+      "Federation": 7960,
+      "Independent": 39202,
+      "Empire": 10949,
+      "Alliance": 2624
+    },
+    "fleet_carriers": 35893,
+    "population": 6809792405257,
+    "powerplay": {
+      "Edmund Mahon": 5390,
+      "Aisling Duval": 7103,
+      "Yuri Grom": 5269,
+      "Felicia Winters": 3250,
+      "Li Yong-Rui": 5337,
+      "Denton Patreus": 3078,
+      "A. Lavigny-Duval": 6154,
+      "Pranav Antal": 4010,
+      "Archon Delaine": 2660,
+      "Zemina Torval": 4194,
+      "Jerome Archer": 4152,
+      "Nakato Kaine": 3071
+    }
+  },
+  {
+    "date": "2025-05-13",
+    "systems": 266,
+    "allegiance": {
+      "Federation": 7996,
+      "Independent": 39379,
+      "Empire": 11000,
+      "Alliance": 2631
+    },
+    "fleet_carriers": 35944,
+    "population": 6813330025474,
+    "powerplay": {
+      "Edmund Mahon": 5175,
+      "Aisling Duval": 6366,
+      "Yuri Grom": 4812,
+      "Felicia Winters": 2988,
+      "Li Yong-Rui": 4910,
+      "Denton Patreus": 2858,
+      "A. Lavigny-Duval": 5547,
+      "Pranav Antal": 3703,
+      "Archon Delaine": 2522,
+      "Zemina Torval": 3948,
+      "Jerome Archer": 4018,
+      "Nakato Kaine": 2996
+    }
+  },
+  {
+    "date": "2025-05-14",
+    "systems": 252,
+    "allegiance": {
+      "Federation": 7996,
+      "Independent": 39379,
+      "Empire": 11000,
+      "Alliance": 2631
+    },
+    "fleet_carriers": 35944,
+    "population": 6813330025474,
+    "powerplay": {
+      "Edmund Mahon": 5175,
+      "Aisling Duval": 6366,
+      "Yuri Grom": 4812,
+      "Felicia Winters": 2988,
+      "Li Yong-Rui": 4910,
+      "Denton Patreus": 2858,
+      "A. Lavigny-Duval": 5547,
+      "Pranav Antal": 3703,
+      "Archon Delaine": 2522,
+      "Zemina Torval": 3948,
+      "Jerome Archer": 4018,
+      "Nakato Kaine": 2996
+    }
+  },
+  {
+    "date": "2025-05-15",
+    "systems": 252,
+    "allegiance": {
+      "Federation": 8063,
+      "Independent": 39718,
+      "Empire": 11082,
+      "Alliance": 2644
+    },
+    "fleet_carriers": 36057,
+    "population": 6823872152600,
+    "powerplay": {
+      "Edmund Mahon": 5170,
+      "Aisling Duval": 6421,
+      "Yuri Grom": 4870,
+      "Felicia Winters": 2993,
+      "Li Yong-Rui": 4917,
+      "Denton Patreus": 2884,
+      "A. Lavigny-Duval": 5659,
+      "Pranav Antal": 3740,
+      "Archon Delaine": 2501,
+      "Zemina Torval": 4014,
+      "Jerome Archer": 3980,
+      "Nakato Kaine": 3005
+    }
+  },
+  {
+    "date": "2025-05-16",
+    "systems": 258,
+    "allegiance": {
+      "Federation": 8063,
+      "Independent": 39718,
+      "Empire": 11082,
+      "Alliance": 2644
+    },
+    "fleet_carriers": 36057,
+    "population": 6823872152600,
+    "powerplay": {
+      "Edmund Mahon": 5170,
+      "Aisling Duval": 6421,
+      "Yuri Grom": 4870,
+      "Felicia Winters": 2993,
+      "Li Yong-Rui": 4917,
+      "Denton Patreus": 2884,
+      "A. Lavigny-Duval": 5659,
+      "Pranav Antal": 3740,
+      "Archon Delaine": 2501,
+      "Zemina Torval": 4014,
+      "Jerome Archer": 3980,
+      "Nakato Kaine": 3005
+    }
+  },
+  {
+    "date": "2025-05-17",
+    "systems": 257,
+    "allegiance": {
+      "Federation": 8128,
+      "Independent": 40047,
+      "Empire": 11160,
+      "Alliance": 2687
+    },
+    "fleet_carriers": 36072,
+    "population": 6831564132890,
+    "powerplay": {
+      "Edmund Mahon": 5293,
+      "Aisling Duval": 6535,
+      "Yuri Grom": 4925,
+      "Felicia Winters": 3071,
+      "Li Yong-Rui": 5079,
+      "Denton Patreus": 2874,
+      "A. Lavigny-Duval": 5753,
+      "Pranav Antal": 3833,
+      "Archon Delaine": 2560,
+      "Zemina Torval": 3939,
+      "Jerome Archer": 4107,
+      "Nakato Kaine": 3019
+    }
+  },
+  {
+    "date": "2025-05-18",
+    "systems": 282,
+    "allegiance": {
+      "Federation": 8170,
+      "Independent": 40233,
+      "Empire": 11208,
+      "Alliance": 2692
+    },
+    "fleet_carriers": 36080,
+    "population": 6838590840554,
+    "powerplay": {
+      "Edmund Mahon": 5098,
+      "Aisling Duval": 6463,
+      "Yuri Grom": 4784,
+      "Felicia Winters": 2999,
+      "Li Yong-Rui": 4889,
+      "Denton Patreus": 2701,
+      "A. Lavigny-Duval": 5591,
+      "Pranav Antal": 3773,
+      "Archon Delaine": 2571,
+      "Zemina Torval": 3715,
+      "Jerome Archer": 3803,
+      "Nakato Kaine": 2983
+    }
+  },
+  {
+    "date": "2025-05-19",
+    "systems": 289,
+    "allegiance": {
+      "Federation": 8170,
+      "Independent": 40233,
+      "Empire": 11208,
+      "Alliance": 2692
+    },
+    "fleet_carriers": 36080,
+    "population": 6838590840554,
+    "powerplay": {
+      "Edmund Mahon": 5098,
+      "Aisling Duval": 6463,
+      "Yuri Grom": 4784,
+      "Felicia Winters": 2999,
+      "Li Yong-Rui": 4889,
+      "Denton Patreus": 2701,
+      "A. Lavigny-Duval": 5591,
+      "Pranav Antal": 3773,
+      "Archon Delaine": 2571,
+      "Zemina Torval": 3715,
+      "Jerome Archer": 3803,
+      "Nakato Kaine": 2983
+    }
+  },
+  {
+    "date": "2025-05-20",
+    "systems": 268,
+    "allegiance": {
+      "Federation": 8251,
+      "Independent": 40597,
+      "Empire": 11292,
+      "Alliance": 2719
+    },
+    "fleet_carriers": 36175,
+    "population": 6846904712935,
+    "powerplay": {
+      "Edmund Mahon": 5487,
+      "Aisling Duval": 6715,
+      "Yuri Grom": 5141,
+      "Felicia Winters": 3195,
+      "Li Yong-Rui": 5185,
+      "Denton Patreus": 2999,
+      "A. Lavigny-Duval": 5992,
+      "Pranav Antal": 3943,
+      "Archon Delaine": 2679,
+      "Zemina Torval": 4046,
+      "Jerome Archer": 4205,
+      "Nakato Kaine": 3073
+    }
+  },
+  {
+    "date": "2025-05-21",
+    "systems": 245,
+    "allegiance": {
+      "Federation": 8286,
+      "Independent": 40751,
+      "Empire": 11336,
+      "Alliance": 2730
+    },
+    "fleet_carriers": 36186,
+    "population": 6851032607534,
+    "powerplay": {
+      "Edmund Mahon": 5430,
+      "Aisling Duval": 6785,
+      "Yuri Grom": 5122,
+      "Felicia Winters": 3222,
+      "Li Yong-Rui": 5118,
+      "Denton Patreus": 2935,
+      "A. Lavigny-Duval": 5930,
+      "Pranav Antal": 3858,
+      "Archon Delaine": 2622,
+      "Zemina Torval": 4033,
+      "Jerome Archer": 4132,
+      "Nakato Kaine": 3119
+    }
+  },
+  {
+    "date": "2025-05-22",
+    "systems": 196,
+    "allegiance": {
+      "Federation": 8318,
+      "Independent": 40880,
+      "Empire": 11362,
+      "Alliance": 2739
+    },
+    "fleet_carriers": 36204,
+    "population": 6856432997066,
+    "powerplay": {
+      "Edmund Mahon": 5459,
+      "Aisling Duval": 6663,
+      "Yuri Grom": 5060,
+      "Felicia Winters": 3222,
+      "Li Yong-Rui": 5114,
+      "Denton Patreus": 2878,
+      "A. Lavigny-Duval": 5792,
+      "Pranav Antal": 3884,
+      "Archon Delaine": 2635,
+      "Zemina Torval": 3962,
+      "Jerome Archer": 4100,
+      "Nakato Kaine": 3121
+    }
+  },
+  {
+    "date": "2025-05-23",
+    "systems": 256,
+    "allegiance": {
+      "Federation": 8318,
+      "Independent": 40880,
+      "Empire": 11362,
+      "Alliance": 2739
+    },
+    "fleet_carriers": 36204,
+    "population": 6856432997066,
+    "powerplay": {
+      "Edmund Mahon": 5459,
+      "Aisling Duval": 6663,
+      "Yuri Grom": 5060,
+      "Felicia Winters": 3222,
+      "Li Yong-Rui": 5114,
+      "Denton Patreus": 2878,
+      "A. Lavigny-Duval": 5792,
+      "Pranav Antal": 3884,
+      "Archon Delaine": 2635,
+      "Zemina Torval": 3962,
+      "Jerome Archer": 4100,
+      "Nakato Kaine": 3121
+    }
+  },
+  {
+    "date": "2025-05-24",
+    "systems": 256,
+    "allegiance": {
+      "Federation": 8318,
+      "Independent": 40880,
+      "Empire": 11362,
+      "Alliance": 2739
+    },
+    "fleet_carriers": 36204,
+    "population": 6856432997066,
+    "powerplay": {
+      "Edmund Mahon": 5459,
+      "Aisling Duval": 6663,
+      "Yuri Grom": 5060,
+      "Felicia Winters": 3222,
+      "Li Yong-Rui": 5114,
+      "Denton Patreus": 2878,
+      "A. Lavigny-Duval": 5792,
+      "Pranav Antal": 3884,
+      "Archon Delaine": 2635,
+      "Zemina Torval": 3962,
+      "Jerome Archer": 4100,
+      "Nakato Kaine": 3121
+    }
+  },
+  {
+    "date": "2025-05-25",
+    "systems": 295,
+    "allegiance": {
+      "Federation": 8318,
+      "Independent": 40880,
+      "Empire": 11362,
+      "Alliance": 2739
+    },
+    "fleet_carriers": 36204,
+    "population": 6856432997066,
+    "powerplay": {
+      "Edmund Mahon": 5459,
+      "Aisling Duval": 6663,
+      "Yuri Grom": 5060,
+      "Felicia Winters": 3222,
+      "Li Yong-Rui": 5114,
+      "Denton Patreus": 2878,
+      "A. Lavigny-Duval": 5792,
+      "Pranav Antal": 3884,
+      "Archon Delaine": 2635,
+      "Zemina Torval": 3962,
+      "Jerome Archer": 4100,
+      "Nakato Kaine": 3121
+    }
+  },
+  {
+    "date": "2025-05-26",
+    "systems": 234,
+    "allegiance": {
+      "Federation": 8318,
+      "Independent": 40880,
+      "Empire": 11362,
+      "Alliance": 2739
+    },
+    "fleet_carriers": 36204,
+    "population": 6856432997066,
+    "powerplay": {
+      "Edmund Mahon": 5459,
+      "Aisling Duval": 6663,
+      "Yuri Grom": 5060,
+      "Felicia Winters": 3222,
+      "Li Yong-Rui": 5114,
+      "Denton Patreus": 2878,
+      "A. Lavigny-Duval": 5792,
+      "Pranav Antal": 3884,
+      "Archon Delaine": 2635,
+      "Zemina Torval": 3962,
+      "Jerome Archer": 4100,
+      "Nakato Kaine": 3121
+    }
+  },
+  {
+    "date": "2025-05-27",
+    "systems": 255,
+    "allegiance": {
+      "Federation": 8387,
+      "Independent": 41207,
+      "Empire": 11459,
+      "Alliance": 2759
+    },
+    "fleet_carriers": 36321,
+    "population": 6866437228373,
+    "powerplay": {
+      "Edmund Mahon": 5190,
+      "Aisling Duval": 6537,
+      "Yuri Grom": 5041,
+      "Felicia Winters": 2972,
+      "Li Yong-Rui": 5271,
+      "Denton Patreus": 2978,
+      "A. Lavigny-Duval": 5662,
+      "Pranav Antal": 3936,
+      "Archon Delaine": 2695,
+      "Zemina Torval": 3941,
+      "Jerome Archer": 4076,
+      "Nakato Kaine": 2963
+    }
+  },
+  {
+    "date": "2025-05-28",
+    "systems": 235,
+    "allegiance": {
+      "Federation": 8513,
+      "Independent": 41844,
+      "Empire": 11615,
+      "Alliance": 2803
+    },
+    "fleet_carriers": 36535,
+    "population": 6883967979271,
+    "powerplay": {
+      "Edmund Mahon": 5271,
+      "Aisling Duval": 6817,
+      "Yuri Grom": 5071,
+      "Felicia Winters": 3137,
+      "Li Yong-Rui": 5074,
+      "Denton Patreus": 2898,
+      "A. Lavigny-Duval": 5844,
+      "Pranav Antal": 3891,
+      "Archon Delaine": 2592,
+      "Zemina Torval": 4003,
+      "Jerome Archer": 4003,
+      "Nakato Kaine": 3068
+    }
+  },
+  {
+    "date": "2025-05-29",
+    "systems": 148,
+    "allegiance": {
+      "Federation": 8513,
+      "Independent": 41844,
+      "Empire": 11615,
+      "Alliance": 2803
+    },
+    "fleet_carriers": 36535,
+    "population": 6883967979271,
+    "powerplay": {
+      "Edmund Mahon": 5271,
+      "Aisling Duval": 6817,
+      "Yuri Grom": 5071,
+      "Felicia Winters": 3137,
+      "Li Yong-Rui": 5074,
+      "Denton Patreus": 2898,
+      "A. Lavigny-Duval": 5844,
+      "Pranav Antal": 3891,
+      "Archon Delaine": 2592,
+      "Zemina Torval": 4003,
+      "Jerome Archer": 4003,
+      "Nakato Kaine": 3068
+    }
+  },
+  {
+    "date": "2025-05-30",
+    "systems": 239,
+    "allegiance": {
+      "Federation": 8513,
+      "Independent": 41844,
+      "Empire": 11615,
+      "Alliance": 2803
+    },
+    "fleet_carriers": 36535,
+    "population": 6883967979271,
+    "powerplay": {
+      "Edmund Mahon": 5271,
+      "Aisling Duval": 6817,
+      "Yuri Grom": 5071,
+      "Felicia Winters": 3137,
+      "Li Yong-Rui": 5074,
+      "Denton Patreus": 2898,
+      "A. Lavigny-Duval": 5844,
+      "Pranav Antal": 3891,
+      "Archon Delaine": 2592,
+      "Zemina Torval": 4003,
+      "Jerome Archer": 4003,
+      "Nakato Kaine": 3068
+    }
+  },
+  {
+    "date": "2025-05-31",
+    "systems": 215,
+    "allegiance": {
+      "Federation": 8513,
+      "Independent": 41844,
+      "Empire": 11615,
+      "Alliance": 2803
+    },
+    "fleet_carriers": 36535,
+    "population": 6883967979271,
+    "powerplay": {
+      "Edmund Mahon": 5271,
+      "Aisling Duval": 6817,
+      "Yuri Grom": 5071,
+      "Felicia Winters": 3137,
+      "Li Yong-Rui": 5074,
+      "Denton Patreus": 2898,
+      "A. Lavigny-Duval": 5844,
+      "Pranav Antal": 3891,
+      "Archon Delaine": 2592,
+      "Zemina Torval": 4003,
+      "Jerome Archer": 4003,
+      "Nakato Kaine": 3068
+    }
+  },
+  {
+    "date": "2025-06-01",
+    "systems": 223,
+    "allegiance": {
+      "Federation": 8513,
+      "Independent": 41844,
+      "Empire": 11615,
+      "Alliance": 2803
+    },
+    "fleet_carriers": 36535,
+    "population": 6883967979271,
+    "powerplay": {
+      "Edmund Mahon": 5271,
+      "Aisling Duval": 6817,
+      "Yuri Grom": 5071,
+      "Felicia Winters": 3137,
+      "Li Yong-Rui": 5074,
+      "Denton Patreus": 2898,
+      "A. Lavigny-Duval": 5844,
+      "Pranav Antal": 3891,
+      "Archon Delaine": 2592,
+      "Zemina Torval": 4003,
+      "Jerome Archer": 4003,
+      "Nakato Kaine": 3068
+    }
+  },
+  {
+    "date": "2025-06-02",
+    "systems": 227,
+    "allegiance": {
+      "Federation": 8513,
+      "Independent": 41844,
+      "Empire": 11615,
+      "Alliance": 2803
+    },
+    "fleet_carriers": 36535,
+    "population": 6883967979271,
+    "powerplay": {
+      "Edmund Mahon": 5271,
+      "Aisling Duval": 6817,
+      "Yuri Grom": 5071,
+      "Felicia Winters": 3137,
+      "Li Yong-Rui": 5074,
+      "Denton Patreus": 2898,
+      "A. Lavigny-Duval": 5844,
+      "Pranav Antal": 3891,
+      "Archon Delaine": 2592,
+      "Zemina Torval": 4003,
+      "Jerome Archer": 4003,
+      "Nakato Kaine": 3068
+    }
+  },
+  {
+    "date": "2025-06-03",
+    "systems": 193,
+    "allegiance": {
+      "Federation": 8513,
+      "Independent": 41844,
+      "Empire": 11615,
+      "Alliance": 2803
+    },
+    "fleet_carriers": 36535,
+    "population": 6883967979271,
+    "powerplay": {
+      "Edmund Mahon": 5271,
+      "Aisling Duval": 6817,
+      "Yuri Grom": 5071,
+      "Felicia Winters": 3137,
+      "Li Yong-Rui": 5074,
+      "Denton Patreus": 2898,
+      "A. Lavigny-Duval": 5844,
+      "Pranav Antal": 3891,
+      "Archon Delaine": 2592,
+      "Zemina Torval": 4003,
+      "Jerome Archer": 4003,
+      "Nakato Kaine": 3068
+    }
+  },
+  {
+    "date": "2025-06-04",
+    "systems": 231,
+    "allegiance": {
+      "Federation": 8670,
+      "Independent": 42876,
+      "Empire": 11853,
+      "Alliance": 2847
+    },
+    "fleet_carriers": 36799,
+    "population": 6916879773337,
+    "powerplay": {
+      "Edmund Mahon": 5390,
+      "Aisling Duval": 7103,
+      "Yuri Grom": 5269,
+      "Felicia Winters": 3250,
+      "Li Yong-Rui": 5337,
+      "Denton Patreus": 3078,
+      "A. Lavigny-Duval": 6154,
+      "Pranav Antal": 4010,
+      "Archon Delaine": 2660,
+      "Zemina Torval": 4194,
+      "Jerome Archer": 4152,
+      "Nakato Kaine": 3071
+    }
+  },
+  {
+    "date": "2025-06-05",
+    "systems": 190,
+    "allegiance": {
+      "Federation": 8694,
+      "Independent": 42998,
+      "Empire": 11887,
+      "Alliance": 2859
+    },
+    "fleet_carriers": 36852,
+    "population": 6922052745927,
+    "powerplay": {
+      "Edmund Mahon": 5301,
+      "Aisling Duval": 6923,
+      "Yuri Grom": 5187,
+      "Felicia Winters": 3155,
+      "Li Yong-Rui": 5270,
+      "Denton Patreus": 3006,
+      "A. Lavigny-Duval": 6018,
+      "Pranav Antal": 3994,
+      "Archon Delaine": 2673,
+      "Zemina Torval": 4073,
+      "Jerome Archer": 4125,
+      "Nakato Kaine": 3062
+    }
+  },
+  {
+    "date": "2025-06-06",
+    "systems": 221,
+    "allegiance": {
+      "Federation": 8719,
+      "Independent": 43147,
+      "Empire": 11927,
+      "Alliance": 2868
+    },
+    "fleet_carriers": 36894,
+    "population": 6928507066549,
+    "powerplay": {
+      "Edmund Mahon": 5526,
+      "Aisling Duval": 6922,
+      "Yuri Grom": 5336,
+      "Felicia Winters": 3236,
+      "Li Yong-Rui": 5371,
+      "Denton Patreus": 3011,
+      "A. Lavigny-Duval": 6079,
+      "Pranav Antal": 4072,
+      "Archon Delaine": 2736,
+      "Zemina Torval": 4118,
+      "Jerome Archer": 4242,
+      "Nakato Kaine": 3150
+    }
+  },
+  {
+    "date": "2025-06-07",
+    "systems": 195,
+    "allegiance": {
+      "Federation": 8750,
+      "Independent": 43264,
+      "Empire": 11961,
+      "Alliance": 2879
+    },
+    "fleet_carriers": 36902,
+    "population": 6932952599584,
+    "powerplay": {
+      "Edmund Mahon": 5372,
+      "Aisling Duval": 6834,
+      "Yuri Grom": 5133,
+      "Felicia Winters": 3150,
+      "Li Yong-Rui": 5252,
+      "Denton Patreus": 3036,
+      "A. Lavigny-Duval": 5957,
+      "Pranav Antal": 4014,
+      "Archon Delaine": 2696,
+      "Zemina Torval": 4087,
+      "Jerome Archer": 4104,
+      "Nakato Kaine": 3168
+    }
+  },
+  {
+    "date": "2025-06-08",
+    "systems": 225,
+    "allegiance": {
+      "Federation": 8774,
+      "Independent": 43407,
+      "Empire": 12014,
+      "Alliance": 2888
+    },
+    "fleet_carriers": 36918,
+    "population": 6938125354783,
+    "powerplay": {
+      "Edmund Mahon": 5504,
+      "Aisling Duval": 6993,
+      "Yuri Grom": 5273,
+      "Felicia Winters": 3222,
+      "Li Yong-Rui": 5374,
+      "Denton Patreus": 3046,
+      "A. Lavigny-Duval": 6041,
+      "Pranav Antal": 4061,
+      "Archon Delaine": 2716,
+      "Zemina Torval": 4119,
+      "Jerome Archer": 4142,
+      "Nakato Kaine": 3260
+    }
+  },
+  {
+    "date": "2025-06-09",
+    "systems": 201,
+    "allegiance": {
+      "Federation": 8785,
+      "Independent": 43549,
+      "Empire": 12053,
+      "Alliance": 2894
+    },
+    "fleet_carriers": 36915,
+    "population": 6943266124218,
+    "powerplay": {
+      "Edmund Mahon": 5449,
+      "Aisling Duval": 7102,
+      "Yuri Grom": 5331,
+      "Felicia Winters": 3285,
+      "Li Yong-Rui": 5264,
+      "Denton Patreus": 3034,
+      "A. Lavigny-Duval": 6187,
+      "Pranav Antal": 4012,
+      "Archon Delaine": 2716,
+      "Zemina Torval": 4170,
+      "Jerome Archer": 4068,
+      "Nakato Kaine": 3214
+    }
+  },
+  {
+    "date": "2025-06-10",
+    "systems": 208,
+    "allegiance": {
+      "Federation": 8816,
+      "Independent": 43683,
+      "Empire": 12091,
+      "Alliance": 2906
+    },
+    "fleet_carriers": 36956,
+    "population": 6948058199422,
+    "powerplay": {
+      "Edmund Mahon": 5651,
+      "Aisling Duval": 7079,
+      "Yuri Grom": 5415,
+      "Felicia Winters": 3350,
+      "Li Yong-Rui": 5440,
+      "Denton Patreus": 3073,
+      "A. Lavigny-Duval": 6221,
+      "Pranav Antal": 4052,
+      "Archon Delaine": 2724,
+      "Zemina Torval": 4242,
+      "Jerome Archer": 4325,
+      "Nakato Kaine": 3326
+    }
+  },
+  {
+    "date": "2025-06-11",
+    "systems": 175,
+    "allegiance": {
+      "Federation": 8839,
+      "Independent": 43780,
+      "Empire": 12136,
+      "Alliance": 2913
+    },
+    "fleet_carriers": 36995,
+    "population": 6952886598878,
+    "powerplay": {
+      "Edmund Mahon": 5695,
+      "Aisling Duval": 7099,
+      "Yuri Grom": 5457,
+      "Felicia Winters": 3263,
+      "Li Yong-Rui": 5273,
+      "Denton Patreus": 3004,
+      "A. Lavigny-Duval": 6075,
+      "Pranav Antal": 4048,
+      "Archon Delaine": 2721,
+      "Zemina Torval": 4152,
+      "Jerome Archer": 4296,
+      "Nakato Kaine": 3293
+    }
+  },
+  {
+    "date": "2025-06-12",
+    "systems": 198,
+    "allegiance": {
+      "Federation": 8865,
+      "Independent": 43899,
+      "Empire": 12177,
+      "Alliance": 2923
+    },
+    "fleet_carriers": 37000,
+    "population": 6959020472367,
+    "powerplay": {
+      "Edmund Mahon": 5710,
+      "Aisling Duval": 7109,
+      "Yuri Grom": 5435,
+      "Felicia Winters": 3323,
+      "Li Yong-Rui": 5455,
+      "Denton Patreus": 3087,
+      "A. Lavigny-Duval": 6049,
+      "Pranav Antal": 4127,
+      "Archon Delaine": 2794,
+      "Zemina Torval": 4198,
+      "Jerome Archer": 4321,
+      "Nakato Kaine": 3280
+    }
+  },
+  {
+    "date": "2025-06-13",
+    "systems": 169,
+    "allegiance": {
+      "Federation": 8898,
+      "Independent": 43991,
+      "Empire": 12211,
+      "Alliance": 2935
+    },
+    "fleet_carriers": 37041,
+    "population": 6963863409061,
+    "powerplay": {
+      "Edmund Mahon": 5708,
+      "Aisling Duval": 7174,
+      "Yuri Grom": 5399,
+      "Felicia Winters": 3396,
+      "Li Yong-Rui": 5402,
+      "Denton Patreus": 3071,
+      "A. Lavigny-Duval": 6177,
+      "Pranav Antal": 4140,
+      "Archon Delaine": 2799,
+      "Zemina Torval": 4133,
+      "Jerome Archer": 4208,
+      "Nakato Kaine": 3286
+    }
+  },
+  {
+    "date": "2025-06-14",
+    "systems": 151,
+    "allegiance": {
+      "Federation": 8921,
+      "Independent": 44091,
+      "Empire": 12230,
+      "Alliance": 2945
+    },
+    "fleet_carriers": 37073,
+    "population": 6966796466024,
+    "powerplay": {
+      "Edmund Mahon": 5298,
+      "Aisling Duval": 6964,
+      "Yuri Grom": 5136,
+      "Felicia Winters": 3217,
+      "Li Yong-Rui": 5400,
+      "Denton Patreus": 2894,
+      "A. Lavigny-Duval": 5956,
+      "Pranav Antal": 4150,
+      "Archon Delaine": 2773,
+      "Zemina Torval": 3827,
+      "Jerome Archer": 3920,
+      "Nakato Kaine": 3172
+    }
+  },
+  {
+    "date": "2025-06-15",
+    "systems": 159,
+    "allegiance": {
+      "Federation": 8942,
+      "Independent": 44195,
+      "Empire": 12263,
+      "Alliance": 2950
+    },
+    "fleet_carriers": 37110,
+    "population": 6972166741772,
+    "powerplay": {
+      "Edmund Mahon": 5556,
+      "Aisling Duval": 7016,
+      "Yuri Grom": 5395,
+      "Felicia Winters": 3255,
+      "Li Yong-Rui": 5519,
+      "Denton Patreus": 2983,
+      "A. Lavigny-Duval": 6045,
+      "Pranav Antal": 4174,
+      "Archon Delaine": 2766,
+      "Zemina Torval": 3968,
+      "Jerome Archer": 4234,
+      "Nakato Kaine": 3297
+    }
+  },
+  {
+    "date": "2025-06-16",
+    "systems": 159,
+    "allegiance": {
+      "Federation": 8956,
+      "Independent": 44313,
+      "Empire": 12284,
+      "Alliance": 2956
+    },
+    "fleet_carriers": 37101,
+    "population": 6975749281774,
+    "powerplay": {
+      "Edmund Mahon": 5708,
+      "Aisling Duval": 7082,
+      "Yuri Grom": 5559,
+      "Felicia Winters": 3379,
+      "Li Yong-Rui": 5610,
+      "Denton Patreus": 3044,
+      "A. Lavigny-Duval": 6178,
+      "Pranav Antal": 4235,
+      "Archon Delaine": 2841,
+      "Zemina Torval": 4139,
+      "Jerome Archer": 4396,
+      "Nakato Kaine": 3291
+    }
+  },
+  {
+    "date": "2025-06-17",
+    "systems": 78,
+    "allegiance": {
+      "Federation": 8963,
+      "Independent": 44361,
+      "Empire": 12303,
+      "Alliance": 2959
+    },
+    "fleet_carriers": 37107,
+    "population": 6977593077644,
+    "powerplay": {
+      "Edmund Mahon": 5777,
+      "Aisling Duval": 7182,
+      "Yuri Grom": 5536,
+      "Felicia Winters": 3353,
+      "Li Yong-Rui": 5577,
+      "Denton Patreus": 3076,
+      "A. Lavigny-Duval": 6288,
+      "Pranav Antal": 4144,
+      "Archon Delaine": 2800,
+      "Zemina Torval": 4213,
+      "Jerome Archer": 4365,
+      "Nakato Kaine": 3337
+    }
+  },
+  {
+    "date": "2025-06-18",
+    "systems": 115,
+    "allegiance": {
+      "Federation": 8998,
+      "Independent": 44413,
+      "Empire": 12329,
+      "Alliance": 2962
+    },
+    "fleet_carriers": 37136,
+    "population": 6982516380879,
+    "powerplay": {
+      "Edmund Mahon": 5588,
+      "Aisling Duval": 7165,
+      "Yuri Grom": 5246,
+      "Felicia Winters": 3320,
+      "Li Yong-Rui": 5554,
+      "Denton Patreus": 3074,
+      "A. Lavigny-Duval": 6254,
+      "Pranav Antal": 3975,
+      "Archon Delaine": 2607,
+      "Zemina Torval": 4147,
+      "Jerome Archer": 4203,
+      "Nakato Kaine": 3306
+    }
+  },
+  {
+    "date": "2025-06-19",
+    "systems": 140,
+    "allegiance": {
+      "Federation": 9012,
+      "Independent": 44504,
+      "Empire": 12358,
+      "Alliance": 2967
+    },
+    "fleet_carriers": 37161,
+    "population": 6988783355133,
+    "powerplay": {
+      "Edmund Mahon": 5532,
+      "Aisling Duval": 7080,
+      "Yuri Grom": 5328,
+      "Felicia Winters": 3281,
+      "Li Yong-Rui": 5480,
+      "Denton Patreus": 3120,
+      "A. Lavigny-Duval": 6147,
+      "Pranav Antal": 4030,
+      "Archon Delaine": 2663,
+      "Zemina Torval": 4109,
+      "Jerome Archer": 4165,
+      "Nakato Kaine": 3232
+    }
+  },
+  {
+    "date": "2025-06-20",
+    "systems": 198,
+    "allegiance": {
+      "Federation": 9030,
+      "Independent": 44644,
+      "Empire": 12386,
+      "Alliance": 2982
+    },
+    "fleet_carriers": 37200,
+    "population": 6996216477394,
+    "powerplay": {
+      "Edmund Mahon": 5535,
+      "Aisling Duval": 6917,
+      "Yuri Grom": 5290,
+      "Felicia Winters": 3241,
+      "Li Yong-Rui": 5514,
+      "Denton Patreus": 3113,
+      "A. Lavigny-Duval": 6020,
+      "Pranav Antal": 4089,
+      "Archon Delaine": 2682,
+      "Zemina Torval": 4072,
+      "Jerome Archer": 4189,
+      "Nakato Kaine": 3275
+    }
+  },
+  {
+    "date": "2025-06-21",
+    "systems": 161,
+    "allegiance": {
+      "Federation": 9059,
+      "Independent": 44735,
+      "Empire": 12420,
+      "Alliance": 2989
+    },
+    "fleet_carriers": 37220,
+    "population": 7000382629284,
+    "powerplay": {
+      "Edmund Mahon": 5578,
+      "Aisling Duval": 7033,
+      "Yuri Grom": 5447,
+      "Felicia Winters": 3258,
+      "Li Yong-Rui": 5508,
+      "Denton Patreus": 3071,
+      "A. Lavigny-Duval": 6088,
+      "Pranav Antal": 4089,
+      "Archon Delaine": 2755,
+      "Zemina Torval": 4159,
+      "Jerome Archer": 4125,
+      "Nakato Kaine": 3293
+    }
+  },
+  {
+    "date": "2025-06-22",
+    "systems": 175,
+    "allegiance": {
+      "Federation": 9086,
+      "Independent": 44851,
+      "Empire": 12447,
+      "Alliance": 2997
+    },
+    "fleet_carriers": 37222,
+    "population": 7006307268474,
+    "powerplay": {
+      "Edmund Mahon": 5732,
+      "Aisling Duval": 7238,
+      "Yuri Grom": 5561,
+      "Felicia Winters": 3403,
+      "Li Yong-Rui": 5670,
+      "Denton Patreus": 3091,
+      "A. Lavigny-Duval": 6237,
+      "Pranav Antal": 4222,
+      "Archon Delaine": 2792,
+      "Zemina Torval": 4280,
+      "Jerome Archer": 4311,
+      "Nakato Kaine": 3364
+    }
+  },
+  {
+    "date": "2025-06-23",
+    "systems": 182,
+    "allegiance": {
+      "Federation": 9105,
+      "Independent": 44974,
+      "Empire": 12476,
+      "Alliance": 3006
+    },
+    "fleet_carriers": 37244,
+    "population": 7011358156364,
+    "powerplay": {
+      "Edmund Mahon": 5365,
+      "Aisling Duval": 7096,
+      "Yuri Grom": 5400,
+      "Felicia Winters": 3303,
+      "Li Yong-Rui": 5280,
+      "Denton Patreus": 3030,
+      "A. Lavigny-Duval": 6046,
+      "Pranav Antal": 4061,
+      "Archon Delaine": 2735,
+      "Zemina Torval": 4154,
+      "Jerome Archer": 3898,
+      "Nakato Kaine": 3184
+    }
+  },
+  {
+    "date": "2025-06-24",
+    "systems": 139,
+    "allegiance": {
+      "Federation": 9125,
+      "Independent": 45069,
+      "Empire": 12492,
+      "Alliance": 3014
+    },
+    "fleet_carriers": 37264,
+    "population": 7015577204163,
+    "powerplay": {
+      "Edmund Mahon": 5628,
+      "Aisling Duval": 7236,
+      "Yuri Grom": 5534,
+      "Felicia Winters": 3388,
+      "Li Yong-Rui": 5616,
+      "Denton Patreus": 3048,
+      "A. Lavigny-Duval": 6168,
+      "Pranav Antal": 4195,
+      "Archon Delaine": 2710,
+      "Zemina Torval": 4280,
+      "Jerome Archer": 4216,
+      "Nakato Kaine": 3267
+    }
+  },
+  {
+    "date": "2025-06-25",
+    "systems": 159,
+    "allegiance": {
+      "Federation": 9143,
+      "Independent": 45161,
+      "Empire": 12536,
+      "Alliance": 3020
+    },
+    "fleet_carriers": 37282,
+    "population": 7020004452466,
+    "powerplay": {
+      "Edmund Mahon": 5557,
+      "Aisling Duval": 7120,
+      "Yuri Grom": 5561,
+      "Felicia Winters": 3299,
+      "Li Yong-Rui": 5577,
+      "Denton Patreus": 3075,
+      "A. Lavigny-Duval": 6054,
+      "Pranav Antal": 4147,
+      "Archon Delaine": 2740,
+      "Zemina Torval": 4233,
+      "Jerome Archer": 4227,
+      "Nakato Kaine": 3242
+    }
+  },
+  {
+    "date": "2025-06-26",
+    "systems": 143,
+    "allegiance": {
+      "Federation": 9165,
+      "Independent": 45256,
+      "Empire": 12550,
+      "Alliance": 3035
+    },
+    "fleet_carriers": 37291,
+    "population": 7025707232586,
+    "powerplay": {
+      "Edmund Mahon": 5561,
+      "Aisling Duval": 7154,
+      "Yuri Grom": 5500,
+      "Felicia Winters": 3313,
+      "Li Yong-Rui": 5535,
+      "Denton Patreus": 3057,
+      "A. Lavigny-Duval": 6161,
+      "Pranav Antal": 4130,
+      "Archon Delaine": 2779,
+      "Zemina Torval": 4217,
+      "Jerome Archer": 4172,
+      "Nakato Kaine": 3318
+    }
+  },
+  {
+    "date": "2025-06-27",
+    "systems": 181,
+    "allegiance": {
+      "Federation": 9192,
+      "Independent": 45371,
+      "Empire": 12581,
+      "Alliance": 3041
+    },
+    "fleet_carriers": 37295,
+    "population": 7033460436346,
+    "powerplay": {
+      "Edmund Mahon": 5737,
+      "Aisling Duval": 7229,
+      "Yuri Grom": 5646,
+      "Felicia Winters": 3414,
+      "Li Yong-Rui": 5587,
+      "Denton Patreus": 3076,
+      "A. Lavigny-Duval": 6161,
+      "Pranav Antal": 4188,
+      "Archon Delaine": 2819,
+      "Zemina Torval": 4321,
+      "Jerome Archer": 4296,
+      "Nakato Kaine": 3325
+    }
+  },
+  {
+    "date": "2025-06-28",
+    "systems": 143,
+    "allegiance": {
+      "Federation": 9211,
+      "Independent": 45471,
+      "Empire": 12599,
+      "Alliance": 3046
+    },
+    "fleet_carriers": 37296,
+    "population": 7038861658162,
+    "powerplay": {
+      "Edmund Mahon": 5867,
+      "Aisling Duval": 7322,
+      "Yuri Grom": 5759,
+      "Felicia Winters": 3442,
+      "Li Yong-Rui": 5665,
+      "Denton Patreus": 3117,
+      "A. Lavigny-Duval": 6177,
+      "Pranav Antal": 4302,
+      "Archon Delaine": 2855,
+      "Zemina Torval": 4349,
+      "Jerome Archer": 4351,
+      "Nakato Kaine": 3425
+    }
+  },
+  {
+    "date": "2025-06-29",
+    "systems": 167,
+    "allegiance": {
+      "Federation": 9225,
+      "Independent": 45580,
+      "Empire": 12634,
+      "Alliance": 3059
+    },
+    "fleet_carriers": 37316,
+    "population": 7045621799526,
+    "powerplay": {
+      "Edmund Mahon": 5726,
+      "Aisling Duval": 7037,
+      "Yuri Grom": 5635,
+      "Felicia Winters": 3304,
+      "Li Yong-Rui": 5568,
+      "Denton Patreus": 3056,
+      "A. Lavigny-Duval": 5922,
+      "Pranav Antal": 4241,
+      "Archon Delaine": 2813,
+      "Zemina Torval": 4213,
+      "Jerome Archer": 4300,
+      "Nakato Kaine": 3336
+    }
+  },
+  {
+    "date": "2025-06-30",
+    "systems": 149,
+    "allegiance": {
+      "Federation": 9237,
+      "Independent": 45682,
+      "Empire": 12660,
+      "Alliance": 3064
+    },
+    "fleet_carriers": 37376,
+    "population": 7051415659777,
+    "powerplay": {
+      "Edmund Mahon": 5618,
+      "Aisling Duval": 7187,
+      "Yuri Grom": 5490,
+      "Felicia Winters": 3331,
+      "Li Yong-Rui": 5287,
+      "Denton Patreus": 3003,
+      "A. Lavigny-Duval": 6008,
+      "Pranav Antal": 4079,
+      "Archon Delaine": 2796,
+      "Zemina Torval": 4182,
+      "Jerome Archer": 3970,
+      "Nakato Kaine": 3382
+    }
+  },
+  {
+    "date": "2025-07-01",
+    "systems": 132,
+    "allegiance": {
+      "Federation": 9264,
+      "Independent": 45738,
+      "Empire": 12691,
+      "Alliance": 3085
+    },
+    "fleet_carriers": 37381,
+    "population": 7057335638133,
+    "powerplay": {
+      "Edmund Mahon": 5974,
+      "Aisling Duval": 7406,
+      "Yuri Grom": 5804,
+      "Felicia Winters": 3528,
+      "Li Yong-Rui": 5578,
+      "Denton Patreus": 3179,
+      "A. Lavigny-Duval": 6293,
+      "Pranav Antal": 4204,
+      "Archon Delaine": 2849,
+      "Zemina Torval": 4500,
+      "Jerome Archer": 4405,
+      "Nakato Kaine": 3447
+    }
+  },
+  {
+    "date": "2025-07-02",
+    "systems": 115,
+    "allegiance": {
+      "Federation": 9271,
+      "Independent": 45822,
+      "Empire": 12706,
+      "Alliance": 3091
+    },
+    "fleet_carriers": 37391,
+    "population": 7062039452058,
+    "powerplay": {
+      "Edmund Mahon": 5940,
+      "Aisling Duval": 7296,
+      "Yuri Grom": 5763,
+      "Felicia Winters": 3479,
+      "Li Yong-Rui": 5632,
+      "Denton Patreus": 3141,
+      "A. Lavigny-Duval": 6125,
+      "Pranav Antal": 4205,
+      "Archon Delaine": 2789,
+      "Zemina Torval": 4417,
+      "Jerome Archer": 4465,
+      "Nakato Kaine": 3402
+    }
+  },
+  {
+    "date": "2025-07-03",
+    "systems": 126,
+    "allegiance": {
+      "Federation": 9289,
+      "Independent": 45904,
+      "Empire": 12728,
+      "Alliance": 3095
+    },
+    "fleet_carriers": 37413,
+    "population": 7068004400266,
+    "powerplay": {
+      "Edmund Mahon": 5891,
+      "Aisling Duval": 7354,
+      "Yuri Grom": 5770,
+      "Felicia Winters": 3524,
+      "Li Yong-Rui": 5632,
+      "Denton Patreus": 3153,
+      "A. Lavigny-Duval": 6202,
+      "Pranav Antal": 4258,
+      "Archon Delaine": 2822,
+      "Zemina Torval": 4417,
+      "Jerome Archer": 4419,
+      "Nakato Kaine": 3426
+    }
+  },
+  {
+    "date": "2025-07-05",
+    "systems": 138,
+    "allegiance": {
+      "Federation": 9329,
+      "Independent": 46075,
+      "Empire": 12777,
+      "Alliance": 3111
+    },
+    "fleet_carriers": 37447,
+    "population": 7081102330543,
+    "powerplay": {
+      "Edmund Mahon": 5885,
+      "Aisling Duval": 7289,
+      "Yuri Grom": 5827,
+      "Felicia Winters": 3410,
+      "Li Yong-Rui": 5907,
+      "Denton Patreus": 3148,
+      "A. Lavigny-Duval": 6130,
+      "Pranav Antal": 4366,
+      "Archon Delaine": 2835,
+      "Zemina Torval": 4413,
+      "Jerome Archer": 4580,
+      "Nakato Kaine": 3438
+    }
+  },
+  {
+    "date": "2025-07-04",
+    "systems": 137,
+    "allegiance": {
+      "Federation": 9289,
+      "Independent": 45904,
+      "Empire": 12728,
+      "Alliance": 3095
+    },
+    "fleet_carriers": 37413,
+    "population": 7068004400266,
+    "powerplay": {
+      "Edmund Mahon": 5891,
+      "Aisling Duval": 7354,
+      "Yuri Grom": 5770,
+      "Felicia Winters": 3524,
+      "Li Yong-Rui": 5632,
+      "Denton Patreus": 3153,
+      "A. Lavigny-Duval": 6202,
+      "Pranav Antal": 4258,
+      "Archon Delaine": 2822,
+      "Zemina Torval": 4417,
+      "Jerome Archer": 4419,
+      "Nakato Kaine": 3426
+    }
+  },
+  {
+    "date": "2025-07-06",
+    "systems": 143,
+    "allegiance": {
+      "Federation": 9345,
+      "Independent": 46163,
+      "Empire": 12803,
+      "Alliance": 3124
+    },
+    "fleet_carriers": 37457,
+    "population": 7085634859654,
+    "powerplay": {
+      "Edmund Mahon": 5838,
+      "Aisling Duval": 7270,
+      "Yuri Grom": 5797,
+      "Felicia Winters": 3360,
+      "Li Yong-Rui": 5737,
+      "Denton Patreus": 3068,
+      "A. Lavigny-Duval": 6081,
+      "Pranav Antal": 4344,
+      "Archon Delaine": 2882,
+      "Zemina Torval": 4277,
+      "Jerome Archer": 4441,
+      "Nakato Kaine": 3401
+    }
+  },
+  {
+    "date": "2025-07-07",
+    "systems": 167,
+    "allegiance": {
+      "Federation": 9367,
+      "Independent": 46271,
+      "Empire": 12824,
+      "Alliance": 3141
+    },
+    "fleet_carriers": 37481,
+    "population": 7093847366136,
+    "powerplay": {
+      "Edmund Mahon": 5897,
+      "Aisling Duval": 7348,
+      "Yuri Grom": 5806,
+      "Felicia Winters": 3423,
+      "Li Yong-Rui": 5717,
+      "Denton Patreus": 3075,
+      "A. Lavigny-Duval": 6219,
+      "Pranav Antal": 4468,
+      "Archon Delaine": 2926,
+      "Zemina Torval": 4302,
+      "Jerome Archer": 4355,
+      "Nakato Kaine": 3463
+    }
+  },
+  {
+    "date": "2025-07-08",
+    "systems": 119,
+    "allegiance": {
+      "Federation": 9376,
+      "Independent": 46353,
+      "Empire": 12840,
+      "Alliance": 3155
+    },
+    "fleet_carriers": 37515,
+    "population": 7099074092553,
+    "powerplay": {
+      "Edmund Mahon": 5588,
+      "Aisling Duval": 7245,
+      "Yuri Grom": 5605,
+      "Felicia Winters": 3273,
+      "Li Yong-Rui": 5530,
+      "Denton Patreus": 2970,
+      "A. Lavigny-Duval": 6010,
+      "Pranav Antal": 4371,
+      "Archon Delaine": 2919,
+      "Zemina Torval": 4139,
+      "Jerome Archer": 4158,
+      "Nakato Kaine": 3319
+    }
+  },
+  {
+    "date": "2025-07-09",
+    "systems": 113,
+    "allegiance": {
+      "Federation": 9399,
+      "Independent": 46422,
+      "Empire": 12855,
+      "Alliance": 3160
+    },
+    "fleet_carriers": 37545,
+    "population": 7103222773668,
+    "powerplay": {
+      "Edmund Mahon": 5851,
+      "Aisling Duval": 7334,
+      "Yuri Grom": 5872,
+      "Felicia Winters": 3388,
+      "Li Yong-Rui": 5758,
+      "Denton Patreus": 3169,
+      "A. Lavigny-Duval": 6180,
+      "Pranav Antal": 4425,
+      "Archon Delaine": 2940,
+      "Zemina Torval": 4430,
+      "Jerome Archer": 4493,
+      "Nakato Kaine": 3410
+    }
+  },
+  {
+    "date": "2025-07-10",
+    "systems": 154,
+    "allegiance": {
+      "Federation": 9418,
+      "Independent": 46506,
+      "Empire": 12870,
+      "Alliance": 3200
+    },
+    "fleet_carriers": 37575,
+    "population": 7107491233207,
+    "powerplay": {
+      "Edmund Mahon": 5999,
+      "Aisling Duval": 7345,
+      "Yuri Grom": 5907,
+      "Felicia Winters": 3466,
+      "Li Yong-Rui": 5770,
+      "Denton Patreus": 3087,
+      "A. Lavigny-Duval": 6157,
+      "Pranav Antal": 4429,
+      "Archon Delaine": 2943,
+      "Zemina Torval": 4353,
+      "Jerome Archer": 4525,
+      "Nakato Kaine": 3504
+    }
+  },
+  {
+    "date": "2025-07-11",
+    "systems": 155,
+    "allegiance": {
+      "Federation": 9439,
+      "Independent": 46604,
+      "Empire": 12888,
+      "Alliance": 3215
+    },
+    "fleet_carriers": 37606,
+    "population": 7114974893890,
+    "powerplay": {
+      "Edmund Mahon": 5811,
+      "Aisling Duval": 7398,
+      "Yuri Grom": 5859,
+      "Felicia Winters": 3431,
+      "Li Yong-Rui": 5621,
+      "Denton Patreus": 2992,
+      "A. Lavigny-Duval": 6184,
+      "Pranav Antal": 4475,
+      "Archon Delaine": 2930,
+      "Zemina Torval": 4313,
+      "Jerome Archer": 4273,
+      "Nakato Kaine": 3475
+    }
+  },
+  {
+    "date": "2025-07-12",
+    "systems": 159,
+    "allegiance": {
+      "Federation": 9455,
+      "Independent": 46697,
+      "Empire": 12917,
+      "Alliance": 3237
+    },
+    "fleet_carriers": 37600,
+    "population": 7121830467744,
+    "powerplay": {
+      "Edmund Mahon": 5759,
+      "Aisling Duval": 7237,
+      "Yuri Grom": 5823,
+      "Felicia Winters": 3370,
+      "Li Yong-Rui": 5542,
+      "Denton Patreus": 2970,
+      "A. Lavigny-Duval": 6024,
+      "Pranav Antal": 4459,
+      "Archon Delaine": 2900,
+      "Zemina Torval": 4189,
+      "Jerome Archer": 4251,
+      "Nakato Kaine": 3502
+    }
+  },
+  {
+    "date": "2025-07-13",
+    "systems": 134,
+    "allegiance": {
+      "Federation": 9470,
+      "Independent": 46777,
+      "Empire": 12956,
+      "Alliance": 3240
+    },
+    "fleet_carriers": 37613,
+    "population": 7128026095213,
+    "powerplay": {
+      "Edmund Mahon": 5555,
+      "Aisling Duval": 7076,
+      "Yuri Grom": 5630,
+      "Felicia Winters": 3176,
+      "Li Yong-Rui": 5497,
+      "Denton Patreus": 2897,
+      "A. Lavigny-Duval": 5854,
+      "Pranav Antal": 4328,
+      "Archon Delaine": 2829,
+      "Zemina Torval": 4058,
+      "Jerome Archer": 4100,
+      "Nakato Kaine": 3393
+    }
+  },
+  {
+    "date": "2025-07-14",
+    "systems": 165,
+    "allegiance": {
+      "Federation": 9492,
+      "Independent": 46889,
+      "Empire": 12981,
+      "Alliance": 3246
+    },
+    "fleet_carriers": 37621,
+    "population": 7133762756351,
+    "powerplay": {
+      "Edmund Mahon": 5643,
+      "Aisling Duval": 7299,
+      "Yuri Grom": 5902,
+      "Felicia Winters": 3209,
+      "Li Yong-Rui": 5648,
+      "Denton Patreus": 2997,
+      "A. Lavigny-Duval": 6070,
+      "Pranav Antal": 4465,
+      "Archon Delaine": 2924,
+      "Zemina Torval": 4272,
+      "Jerome Archer": 4326,
+      "Nakato Kaine": 3487
+    }
+  },
+  {
+    "date": "2025-07-15",
+    "systems": 137,
+    "allegiance": {
+      "Federation": 9497,
+      "Independent": 46992,
+      "Empire": 13005,
+      "Alliance": 3252
+    },
+    "fleet_carriers": 37642,
+    "population": 7140470584441,
+    "powerplay": {
+      "Edmund Mahon": 5516,
+      "Aisling Duval": 7132,
+      "Yuri Grom": 5709,
+      "Felicia Winters": 3155,
+      "Li Yong-Rui": 5668,
+      "Denton Patreus": 2871,
+      "A. Lavigny-Duval": 5816,
+      "Pranav Antal": 4520,
+      "Archon Delaine": 2886,
+      "Zemina Torval": 4151,
+      "Jerome Archer": 4181,
+      "Nakato Kaine": 3404
+    }
+  },
+  {
+    "date": "2025-07-16",
+    "systems": 155,
+    "allegiance": {
+      "Federation": 9521,
+      "Independent": 47089,
+      "Empire": 13027,
+      "Alliance": 3263
+    },
+    "fleet_carriers": 37662,
+    "population": 7145154968768,
+    "powerplay": {
+      "Edmund Mahon": 5731,
+      "Aisling Duval": 7323,
+      "Yuri Grom": 6034,
+      "Felicia Winters": 3309,
+      "Li Yong-Rui": 5840,
+      "Denton Patreus": 3063,
+      "A. Lavigny-Duval": 6012,
+      "Pranav Antal": 4597,
+      "Archon Delaine": 2967,
+      "Zemina Torval": 4374,
+      "Jerome Archer": 4428,
+      "Nakato Kaine": 3422
+    }
+  },
+  {
+    "date": "2025-07-17",
+    "systems": 115,
+    "allegiance": {
+      "Federation": 9532,
+      "Independent": 47160,
+      "Empire": 13050,
+      "Alliance": 3273
+    },
+    "fleet_carriers": 37660,
+    "population": 7149263356635,
+    "powerplay": {
+      "Edmund Mahon": 5805,
+      "Aisling Duval": 7373,
+      "Yuri Grom": 5928,
+      "Felicia Winters": 3406,
+      "Li Yong-Rui": 5864,
+      "Denton Patreus": 3052,
+      "A. Lavigny-Duval": 6125,
+      "Pranav Antal": 4629,
+      "Archon Delaine": 2998,
+      "Zemina Torval": 4334,
+      "Jerome Archer": 4414,
+      "Nakato Kaine": 3501
+    }
+  },
+  {
+    "date": "2025-07-18",
+    "systems": 167,
+    "allegiance": {
+      "Federation": 9551,
+      "Independent": 47262,
+      "Empire": 13085,
+      "Alliance": 3284
+    },
+    "fleet_carriers": 37698,
+    "population": 7155771756593,
+    "powerplay": {
+      "Edmund Mahon": 5707,
+      "Aisling Duval": 7333,
+      "Yuri Grom": 5989,
+      "Felicia Winters": 3319,
+      "Li Yong-Rui": 5925,
+      "Denton Patreus": 3072,
+      "A. Lavigny-Duval": 6160,
+      "Pranav Antal": 4646,
+      "Archon Delaine": 2997,
+      "Zemina Torval": 4429,
+      "Jerome Archer": 4472,
+      "Nakato Kaine": 3275
+    }
+  },
+  {
+    "date": "2025-07-19",
+    "systems": 128,
+    "allegiance": {
+      "Federation": 9574,
+      "Independent": 47339,
+      "Empire": 13106,
+      "Alliance": 3289
+    },
+    "fleet_carriers": 37691,
+    "population": 7161682615520,
+    "powerplay": {
+      "Edmund Mahon": 5712,
+      "Aisling Duval": 7457,
+      "Yuri Grom": 6054,
+      "Felicia Winters": 3312,
+      "Li Yong-Rui": 5936,
+      "Denton Patreus": 3087,
+      "A. Lavigny-Duval": 6152,
+      "Pranav Antal": 4693,
+      "Archon Delaine": 3029,
+      "Zemina Torval": 4459,
+      "Jerome Archer": 4533,
+      "Nakato Kaine": 3220
+    }
+  },
+  {
+    "date": "2025-07-20",
+    "systems": 139,
+    "allegiance": {
+      "Federation": 9595,
+      "Independent": 47421,
+      "Empire": 13136,
+      "Alliance": 3297
+    },
+    "fleet_carriers": 37660,
+    "population": 7167543825479,
+    "powerplay": {
+      "Edmund Mahon": 5756,
+      "Aisling Duval": 7428,
+      "Yuri Grom": 6033,
+      "Felicia Winters": 3351,
+      "Li Yong-Rui": 5798,
+      "Denton Patreus": 3156,
+      "A. Lavigny-Duval": 6307,
+      "Pranav Antal": 4514,
+      "Archon Delaine": 2969,
+      "Zemina Torval": 4580,
+      "Jerome Archer": 4420,
+      "Nakato Kaine": 3275
+    }
+  },
+  {
+    "date": "2025-07-21",
+    "systems": 145,
+    "allegiance": {
+      "Federation": 9608,
+      "Independent": 47515,
+      "Empire": 13167,
+      "Alliance": 3303
+    },
+    "fleet_carriers": 37712,
+    "population": 7174100947123,
+    "powerplay": {
+      "Edmund Mahon": 5832,
+      "Aisling Duval": 7609,
+      "Yuri Grom": 6156,
+      "Felicia Winters": 3427,
+      "Li Yong-Rui": 5924,
+      "Denton Patreus": 3171,
+      "A. Lavigny-Duval": 6339,
+      "Pranav Antal": 4608,
+      "Archon Delaine": 2993,
+      "Zemina Torval": 4669,
+      "Jerome Archer": 4608,
+      "Nakato Kaine": 3397
+    }
+  },
+  {
+    "date": "2025-07-22",
+    "systems": 137,
+    "allegiance": {
+      "Federation": 9623,
+      "Independent": 47596,
+      "Empire": 13199,
+      "Alliance": 3315
+    },
+    "fleet_carriers": 37740,
+    "population": 7179820132662,
+    "powerplay": {
+      "Edmund Mahon": 5727,
+      "Aisling Duval": 7439,
+      "Yuri Grom": 6003,
+      "Felicia Winters": 3363,
+      "Li Yong-Rui": 5829,
+      "Denton Patreus": 3041,
+      "A. Lavigny-Duval": 6230,
+      "Pranav Antal": 4578,
+      "Archon Delaine": 2974,
+      "Zemina Torval": 4498,
+      "Jerome Archer": 4381,
+      "Nakato Kaine": 3323
+    }
+  },
+  {
+    "date": "2025-07-23",
+    "systems": 139,
+    "allegiance": {
+      "Federation": 9651,
+      "Independent": 47685,
+      "Empire": 13224,
+      "Alliance": 3318
+    },
+    "fleet_carriers": 37768,
+    "population": 7189253568400,
+    "powerplay": {
+      "Edmund Mahon": 5315,
+      "Aisling Duval": 7271,
+      "Yuri Grom": 5736,
+      "Felicia Winters": 3164,
+      "Li Yong-Rui": 5748,
+      "Denton Patreus": 3004,
+      "A. Lavigny-Duval": 6057,
+      "Pranav Antal": 4519,
+      "Archon Delaine": 2969,
+      "Zemina Torval": 4341,
+      "Jerome Archer": 4202,
+      "Nakato Kaine": 3014
+    }
+  },
+  {
+    "date": "2025-07-24",
+    "systems": 196,
+    "allegiance": {
+      "Federation": 9661,
+      "Independent": 47821,
+      "Empire": 13261,
+      "Alliance": 3326
+    },
+    "fleet_carriers": 37782,
+    "population": 7197015694720,
+    "powerplay": {
+      "Edmund Mahon": 5319,
+      "Aisling Duval": 7237,
+      "Yuri Grom": 5714,
+      "Felicia Winters": 3155,
+      "Li Yong-Rui": 5671,
+      "Denton Patreus": 2982,
+      "A. Lavigny-Duval": 5982,
+      "Pranav Antal": 4490,
+      "Archon Delaine": 2943,
+      "Zemina Torval": 4339,
+      "Jerome Archer": 4118,
+      "Nakato Kaine": 3106
+    }
+  },
+  {
+    "date": "2025-07-25",
+    "systems": 228,
+    "allegiance": {
+      "Federation": 9691,
+      "Independent": 47978,
+      "Empire": 13292,
+      "Alliance": 3335
+    },
+    "fleet_carriers": 37867,
+    "population": 7206407467391,
+    "powerplay": {
+      "Edmund Mahon": 5566,
+      "Aisling Duval": 7395,
+      "Yuri Grom": 5623,
+      "Felicia Winters": 3272,
+      "Li Yong-Rui": 5525,
+      "Denton Patreus": 2954,
+      "A. Lavigny-Duval": 6102,
+      "Pranav Antal": 4366,
+      "Archon Delaine": 2865,
+      "Zemina Torval": 4265,
+      "Jerome Archer": 3950,
+      "Nakato Kaine": 3445
+    }
+  },
+  {
+    "date": "2025-07-26",
+    "systems": 178,
+    "allegiance": {
+      "Federation": 9715,
+      "Independent": 48095,
+      "Empire": 13320,
+      "Alliance": 3346
+    },
+    "fleet_carriers": 37913,
+    "population": 7213369477248,
+    "powerplay": {
+      "Edmund Mahon": 5542,
+      "Aisling Duval": 7382,
+      "Yuri Grom": 5501,
+      "Felicia Winters": 3253,
+      "Li Yong-Rui": 5420,
+      "Denton Patreus": 2793,
+      "A. Lavigny-Duval": 6053,
+      "Pranav Antal": 4372,
+      "Archon Delaine": 2872,
+      "Zemina Torval": 4077,
+      "Jerome Archer": 3801,
+      "Nakato Kaine": 3436
+    }
+  },
+  {
+    "date": "2025-07-27",
+    "systems": 184,
+    "allegiance": {
+      "Federation": 9735,
+      "Independent": 48210,
+      "Empire": 13354,
+      "Alliance": 3359
+    },
+    "fleet_carriers": 37953,
+    "population": 7222320052484,
+    "powerplay": {
+      "Edmund Mahon": 5676,
+      "Aisling Duval": 7504,
+      "Yuri Grom": 5705,
+      "Felicia Winters": 3303,
+      "Li Yong-Rui": 5597,
+      "Denton Patreus": 2896,
+      "A. Lavigny-Duval": 6093,
+      "Pranav Antal": 4492,
+      "Archon Delaine": 2929,
+      "Zemina Torval": 4247,
+      "Jerome Archer": 4064,
+      "Nakato Kaine": 3499
+    }
+  },
+  {
+    "date": "2025-07-28",
+    "systems": 187,
+    "allegiance": {
+      "Federation": 9747,
+      "Independent": 48331,
+      "Empire": 13398,
+      "Alliance": 3373
+    },
+    "fleet_carriers": 38022,
+    "population": 7230165187646,
+    "powerplay": {
+      "Edmund Mahon": 5860,
+      "Aisling Duval": 7640,
+      "Yuri Grom": 5955,
+      "Felicia Winters": 3515,
+      "Li Yong-Rui": 5842,
+      "Denton Patreus": 3042,
+      "A. Lavigny-Duval": 6244,
+      "Pranav Antal": 4581,
+      "Archon Delaine": 3019,
+      "Zemina Torval": 4479,
+      "Jerome Archer": 4265,
+      "Nakato Kaine": 3619
+    }
+  },
+  {
+    "date": "2025-07-29",
+    "systems": 174,
+    "allegiance": {
+      "Federation": 9758,
+      "Independent": 48431,
+      "Empire": 13446,
+      "Alliance": 3385
+    },
+    "fleet_carriers": 38062,
+    "population": 7234515160915,
+    "powerplay": {
+      "Edmund Mahon": 5757,
+      "Aisling Duval": 7493,
+      "Yuri Grom": 5846,
+      "Felicia Winters": 3386,
+      "Li Yong-Rui": 5733,
+      "Denton Patreus": 2950,
+      "A. Lavigny-Duval": 6147,
+      "Pranav Antal": 4574,
+      "Archon Delaine": 2977,
+      "Zemina Torval": 4305,
+      "Jerome Archer": 4102,
+      "Nakato Kaine": 3597
+    }
+  },
+  {
+    "date": "2025-07-30",
+    "systems": 185,
+    "allegiance": {
+      "Federation": 9777,
+      "Independent": 48562,
+      "Empire": 13477,
+      "Alliance": 3393
+    },
+    "fleet_carriers": 38134,
+    "population": 7243341333227,
+    "powerplay": {
+      "Edmund Mahon": 5783,
+      "Aisling Duval": 7555,
+      "Yuri Grom": 5887,
+      "Felicia Winters": 3422,
+      "Li Yong-Rui": 5777,
+      "Denton Patreus": 2973,
+      "A. Lavigny-Duval": 6152,
+      "Pranav Antal": 4594,
+      "Archon Delaine": 3017,
+      "Zemina Torval": 4359,
+      "Jerome Archer": 4133,
+      "Nakato Kaine": 3600
+    }
+  }
+]
