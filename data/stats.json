@@ -2156,5 +2156,31 @@
       "Jerome Archer": 4133,
       "Nakato Kaine": 3600
     }
+  },
+  {
+    "date": "2025-07-31",
+    "systems": 212,
+    "allegiance": {
+      "Federation": 9809,
+      "Independent": 48700,
+      "Empire": 13504,
+      "Alliance": 3410
+    },
+    "fleet_carriers": 38151,
+    "population": 7249446984163,
+    "powerplay": {
+      "Edmund Mahon": 5756,
+      "Aisling Duval": 7194,
+      "Yuri Grom": 5705,
+      "Felicia Winters": 3373,
+      "Li Yong-Rui": 5699,
+      "Denton Patreus": 2807,
+      "A. Lavigny-Duval": 5752,
+      "Pranav Antal": 4556,
+      "Archon Delaine": 3013,
+      "Zemina Torval": 4054,
+      "Jerome Archer": 3994,
+      "Nakato Kaine": 3550
+    }
   }
 ]
