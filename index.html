@@ -192,7 +192,7 @@ async function buildChart(plotType) {
         "powerplay": {"label": "Powerplay", "yLabel": "Power"},
     };
     try {
-        const response = await fetch('data/stats.json?dt20250805');
+        const response = await fetch('data/stats.json?dt20250807');
         if (!response.ok) {
             throw new Error("Could not fetch statistics");
         }
@@ -300,7 +300,7 @@ async function buildChart(plotType) {
 
     Ed3d.init({
         container   : 'edmap',
-        jsonPath    : "data/systems.json?dt20250805",
+        jsonPath    : "data/systems.json?dt20250807",
         withHudPanel : true,
         hudMultipleSelect : false,
 //        effectScaleSystem : [500,10000],
