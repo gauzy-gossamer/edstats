@@ -8,7 +8,9 @@
       "Empire": 10765,
       "Alliance": 2586
     },
-    "fleet_carriers": 35814,
+    "fleet_carriers": {
+      "carriers": 35814
+    },
     "population": 6791110227206,
     "powerplay": {
       "Edmund Mahon": 5390,
@@ -34,7 +36,9 @@
       "Empire": 10765,
       "Alliance": 2586
     },
-    "fleet_carriers": 35814,
+    "fleet_carriers": {
+      "carriers": 35814
+    },
     "population": 6791110227206,
     "powerplay": {
       "Edmund Mahon": 5390,
@@ -60,7 +64,9 @@
       "Empire": 10900,
       "Alliance": 2616
     },
-    "fleet_carriers": 35867,
+    "fleet_carriers": {
+      "carriers": 35867
+    },
     "population": 6805468064988,
     "powerplay": {
       "Edmund Mahon": 5390,
@@ -86,7 +92,9 @@
       "Empire": 10949,
       "Alliance": 2624
     },
-    "fleet_carriers": 35893,
+    "fleet_carriers": {
+      "carriers": 35893
+    },
     "population": 6809792405257,
     "powerplay": {
       "Edmund Mahon": 5390,
@@ -112,7 +120,9 @@
       "Empire": 11000,
       "Alliance": 2631
     },
-    "fleet_carriers": 35944,
+    "fleet_carriers": {
+      "carriers": 35944
+    },
     "population": 6813330025474,
     "powerplay": {
       "Edmund Mahon": 5175,
@@ -138,7 +148,9 @@
       "Empire": 11000,
       "Alliance": 2631
     },
-    "fleet_carriers": 35944,
+    "fleet_carriers": {
+      "carriers": 35944
+    },
     "population": 6813330025474,
     "powerplay": {
       "Edmund Mahon": 5175,
@@ -164,7 +176,9 @@
       "Empire": 11082,
       "Alliance": 2644
     },
-    "fleet_carriers": 36057,
+    "fleet_carriers": {
+      "carriers": 36057
+    },
     "population": 6823872152600,
     "powerplay": {
       "Edmund Mahon": 5170,
@@ -190,7 +204,9 @@
       "Empire": 11082,
       "Alliance": 2644
     },
-    "fleet_carriers": 36057,
+    "fleet_carriers": {
+      "carriers": 36057
+    },
     "population": 6823872152600,
     "powerplay": {
       "Edmund Mahon": 5170,
@@ -216,7 +232,9 @@
       "Empire": 11160,
       "Alliance": 2687
     },
-    "fleet_carriers": 36072,
+    "fleet_carriers": {
+      "carriers": 36072
+    },
     "population": 6831564132890,
     "powerplay": {
       "Edmund Mahon": 5293,
@@ -242,7 +260,9 @@
       "Empire": 11208,
       "Alliance": 2692
     },
-    "fleet_carriers": 36080,
+    "fleet_carriers": {
+      "carriers": 36080
+    },
     "population": 6838590840554,
     "powerplay": {
       "Edmund Mahon": 5098,
@@ -268,7 +288,9 @@
       "Empire": 11208,
       "Alliance": 2692
     },
-    "fleet_carriers": 36080,
+    "fleet_carriers": {
+      "carriers": 36080
+    },
     "population": 6838590840554,
     "powerplay": {
       "Edmund Mahon": 5098,
@@ -294,7 +316,9 @@
       "Empire": 11292,
       "Alliance": 2719
     },
-    "fleet_carriers": 36175,
+    "fleet_carriers": {
+      "carriers": 36175
+    },
     "population": 6846904712935,
     "powerplay": {
       "Edmund Mahon": 5487,
@@ -320,7 +344,9 @@
       "Empire": 11336,
       "Alliance": 2730
     },
-    "fleet_carriers": 36186,
+    "fleet_carriers": {
+      "carriers": 36186
+    },
     "population": 6851032607534,
     "powerplay": {
       "Edmund Mahon": 5430,
@@ -346,7 +372,9 @@
       "Empire": 11362,
       "Alliance": 2739
     },
-    "fleet_carriers": 36204,
+    "fleet_carriers": {
+      "carriers": 36204
+    },
     "population": 6856432997066,
     "powerplay": {
       "Edmund Mahon": 5459,
@@ -372,7 +400,9 @@
       "Empire": 11362,
       "Alliance": 2739
     },
-    "fleet_carriers": 36204,
+    "fleet_carriers": {
+      "carriers": 36204
+    },
     "population": 6856432997066,
     "powerplay": {
       "Edmund Mahon": 5459,
@@ -398,7 +428,9 @@
       "Empire": 11362,
       "Alliance": 2739
     },
-    "fleet_carriers": 36204,
+    "fleet_carriers": {
+      "carriers": 36204
+    },
     "population": 6856432997066,
     "powerplay": {
       "Edmund Mahon": 5459,
@@ -424,7 +456,9 @@
       "Empire": 11362,
       "Alliance": 2739
     },
-    "fleet_carriers": 36204,
+    "fleet_carriers": {
+      "carriers": 36204
+    },
     "population": 6856432997066,
     "powerplay": {
       "Edmund Mahon": 5459,
@@ -450,7 +484,9 @@
       "Empire": 11362,
       "Alliance": 2739
     },
-    "fleet_carriers": 36204,
+    "fleet_carriers": {
+      "carriers": 36204
+    },
     "population": 6856432997066,
     "powerplay": {
       "Edmund Mahon": 5459,
@@ -476,7 +512,9 @@
       "Empire": 11459,
       "Alliance": 2759
     },
-    "fleet_carriers": 36321,
+    "fleet_carriers": {
+      "carriers": 36321
+    },
     "population": 6866437228373,
     "powerplay": {
       "Edmund Mahon": 5190,
@@ -502,7 +540,9 @@
       "Empire": 11615,
       "Alliance": 2803
     },
-    "fleet_carriers": 36535,
+    "fleet_carriers": {
+      "carriers": 36535
+    },
     "population": 6883967979271,
     "powerplay": {
       "Edmund Mahon": 5271,
@@ -528,7 +568,9 @@
       "Empire": 11615,
       "Alliance": 2803
     },
-    "fleet_carriers": 36535,
+    "fleet_carriers": {
+      "carriers": 36535
+    },
     "population": 6883967979271,
     "powerplay": {
       "Edmund Mahon": 5271,
@@ -554,7 +596,9 @@
       "Empire": 11615,
       "Alliance": 2803
     },
-    "fleet_carriers": 36535,
+    "fleet_carriers": {
+      "carriers": 36535
+    },
     "population": 6883967979271,
     "powerplay": {
       "Edmund Mahon": 5271,
@@ -580,7 +624,9 @@
       "Empire": 11615,
       "Alliance": 2803
     },
-    "fleet_carriers": 36535,
+    "fleet_carriers": {
+      "carriers": 36535
+    },
     "population": 6883967979271,
     "powerplay": {
       "Edmund Mahon": 5271,
@@ -606,7 +652,9 @@
       "Empire": 11615,
       "Alliance": 2803
     },
-    "fleet_carriers": 36535,
+    "fleet_carriers": {
+      "carriers": 36535
+    },
     "population": 6883967979271,
     "powerplay": {
       "Edmund Mahon": 5271,
@@ -632,7 +680,9 @@
       "Empire": 11615,
       "Alliance": 2803
     },
-    "fleet_carriers": 36535,
+    "fleet_carriers": {
+      "carriers": 36535
+    },
     "population": 6883967979271,
     "powerplay": {
       "Edmund Mahon": 5271,
@@ -658,7 +708,9 @@
       "Empire": 11615,
       "Alliance": 2803
     },
-    "fleet_carriers": 36535,
+    "fleet_carriers": {
+      "carriers": 36535
+    },
     "population": 6883967979271,
     "powerplay": {
       "Edmund Mahon": 5271,
@@ -684,7 +736,9 @@
       "Empire": 11853,
       "Alliance": 2847
     },
-    "fleet_carriers": 36799,
+    "fleet_carriers": {
+      "carriers": 36799
+    },
     "population": 6916879773337,
     "powerplay": {
       "Edmund Mahon": 5390,
@@ -710,7 +764,9 @@
       "Empire": 11887,
       "Alliance": 2859
     },
-    "fleet_carriers": 36852,
+    "fleet_carriers": {
+      "carriers": 36852
+    },
     "population": 6922052745927,
     "powerplay": {
       "Edmund Mahon": 5301,
@@ -736,7 +792,9 @@
       "Empire": 11927,
       "Alliance": 2868
     },
-    "fleet_carriers": 36894,
+    "fleet_carriers": {
+      "carriers": 36894
+    },
     "population": 6928507066549,
     "powerplay": {
       "Edmund Mahon": 5526,
@@ -762,7 +820,9 @@
       "Empire": 11961,
       "Alliance": 2879
     },
-    "fleet_carriers": 36902,
+    "fleet_carriers": {
+      "carriers": 36902
+    },
     "population": 6932952599584,
     "powerplay": {
       "Edmund Mahon": 5372,
@@ -788,7 +848,9 @@
       "Empire": 12014,
       "Alliance": 2888
     },
-    "fleet_carriers": 36918,
+    "fleet_carriers": {
+      "carriers": 36918
+    },
     "population": 6938125354783,
     "powerplay": {
       "Edmund Mahon": 5504,
@@ -814,7 +876,9 @@
       "Empire": 12053,
       "Alliance": 2894
     },
-    "fleet_carriers": 36915,
+    "fleet_carriers": {
+      "carriers": 36915
+    },
     "population": 6943266124218,
     "powerplay": {
       "Edmund Mahon": 5449,
@@ -840,7 +904,9 @@
       "Empire": 12091,
       "Alliance": 2906
     },
-    "fleet_carriers": 36956,
+    "fleet_carriers": {
+      "carriers": 36956
+    },
     "population": 6948058199422,
     "powerplay": {
       "Edmund Mahon": 5651,
@@ -866,7 +932,9 @@
       "Empire": 12136,
       "Alliance": 2913
     },
-    "fleet_carriers": 36995,
+    "fleet_carriers": {
+      "carriers": 36995
+    },
     "population": 6952886598878,
     "powerplay": {
       "Edmund Mahon": 5695,
@@ -892,7 +960,9 @@
       "Empire": 12177,
       "Alliance": 2923
     },
-    "fleet_carriers": 37000,
+    "fleet_carriers": {
+      "carriers": 37000
+    },
     "population": 6959020472367,
     "powerplay": {
       "Edmund Mahon": 5710,
@@ -918,7 +988,9 @@
       "Empire": 12211,
       "Alliance": 2935
     },
-    "fleet_carriers": 37041,
+    "fleet_carriers": {
+      "carriers": 37041
+    },
     "population": 6963863409061,
     "powerplay": {
       "Edmund Mahon": 5708,
@@ -944,7 +1016,9 @@
       "Empire": 12230,
       "Alliance": 2945
     },
-    "fleet_carriers": 37073,
+    "fleet_carriers": {
+      "carriers": 37073
+    },
     "population": 6966796466024,
     "powerplay": {
       "Edmund Mahon": 5298,
@@ -970,7 +1044,9 @@
       "Empire": 12263,
       "Alliance": 2950
     },
-    "fleet_carriers": 37110,
+    "fleet_carriers": {
+      "carriers": 37110
+    },
     "population": 6972166741772,
     "powerplay": {
       "Edmund Mahon": 5556,
@@ -996,7 +1072,9 @@
       "Empire": 12284,
       "Alliance": 2956
     },
-    "fleet_carriers": 37101,
+    "fleet_carriers": {
+      "carriers": 37101
+    },
     "population": 6975749281774,
     "powerplay": {
       "Edmund Mahon": 5708,
@@ -1022,7 +1100,9 @@
       "Empire": 12303,
       "Alliance": 2959
     },
-    "fleet_carriers": 37107,
+    "fleet_carriers": {
+      "carriers": 37107
+    },
     "population": 6977593077644,
     "powerplay": {
       "Edmund Mahon": 5777,
@@ -1048,7 +1128,9 @@
       "Empire": 12329,
       "Alliance": 2962
     },
-    "fleet_carriers": 37136,
+    "fleet_carriers": {
+      "carriers": 37136
+    },
     "population": 6982516380879,
     "powerplay": {
       "Edmund Mahon": 5588,
@@ -1074,7 +1156,9 @@
       "Empire": 12358,
       "Alliance": 2967
     },
-    "fleet_carriers": 37161,
+    "fleet_carriers": {
+      "carriers": 37161
+    },
     "population": 6988783355133,
     "powerplay": {
       "Edmund Mahon": 5532,
@@ -1100,7 +1184,9 @@
       "Empire": 12386,
       "Alliance": 2982
     },
-    "fleet_carriers": 37200,
+    "fleet_carriers": {
+      "carriers": 37200
+    },
     "population": 6996216477394,
     "powerplay": {
       "Edmund Mahon": 5535,
@@ -1126,7 +1212,9 @@
       "Empire": 12420,
       "Alliance": 2989
     },
-    "fleet_carriers": 37220,
+    "fleet_carriers": {
+      "carriers": 37220
+    },
     "population": 7000382629284,
     "powerplay": {
       "Edmund Mahon": 5578,
@@ -1152,7 +1240,9 @@
       "Empire": 12447,
       "Alliance": 2997
     },
-    "fleet_carriers": 37222,
+    "fleet_carriers": {
+      "carriers": 37222
+    },
     "population": 7006307268474,
     "powerplay": {
       "Edmund Mahon": 5732,
@@ -1178,7 +1268,9 @@
       "Empire": 12476,
       "Alliance": 3006
     },
-    "fleet_carriers": 37244,
+    "fleet_carriers": {
+      "carriers": 37244
+    },
     "population": 7011358156364,
     "powerplay": {
       "Edmund Mahon": 5365,
@@ -1204,7 +1296,9 @@
       "Empire": 12492,
       "Alliance": 3014
     },
-    "fleet_carriers": 37264,
+    "fleet_carriers": {
+      "carriers": 37264
+    },
     "population": 7015577204163,
     "powerplay": {
       "Edmund Mahon": 5628,
@@ -1230,7 +1324,9 @@
       "Empire": 12536,
       "Alliance": 3020
     },
-    "fleet_carriers": 37282,
+    "fleet_carriers": {
+      "carriers": 37282
+    },
     "population": 7020004452466,
     "powerplay": {
       "Edmund Mahon": 5557,
@@ -1256,7 +1352,9 @@
       "Empire": 12550,
       "Alliance": 3035
     },
-    "fleet_carriers": 37291,
+    "fleet_carriers": {
+      "carriers": 37291
+    },
     "population": 7025707232586,
     "powerplay": {
       "Edmund Mahon": 5561,
@@ -1282,7 +1380,9 @@
       "Empire": 12581,
       "Alliance": 3041
     },
-    "fleet_carriers": 37295,
+    "fleet_carriers": {
+      "carriers": 37295
+    },
     "population": 7033460436346,
     "powerplay": {
       "Edmund Mahon": 5737,
@@ -1308,7 +1408,9 @@
       "Empire": 12599,
       "Alliance": 3046
     },
-    "fleet_carriers": 37296,
+    "fleet_carriers": {
+      "carriers": 37296
+    },
     "population": 7038861658162,
     "powerplay": {
       "Edmund Mahon": 5867,
@@ -1334,7 +1436,9 @@
       "Empire": 12634,
       "Alliance": 3059
     },
-    "fleet_carriers": 37316,
+    "fleet_carriers": {
+      "carriers": 37316
+    },
     "population": 7045621799526,
     "powerplay": {
       "Edmund Mahon": 5726,
@@ -1360,7 +1464,9 @@
       "Empire": 12660,
       "Alliance": 3064
     },
-    "fleet_carriers": 37376,
+    "fleet_carriers": {
+      "carriers": 37376
+    },
     "population": 7051415659777,
     "powerplay": {
       "Edmund Mahon": 5618,
@@ -1386,7 +1492,9 @@
       "Empire": 12691,
       "Alliance": 3085
     },
-    "fleet_carriers": 37381,
+    "fleet_carriers": {
+      "carriers": 37381
+    },
     "population": 7057335638133,
     "powerplay": {
       "Edmund Mahon": 5974,
@@ -1412,7 +1520,9 @@
       "Empire": 12706,
       "Alliance": 3091
     },
-    "fleet_carriers": 37391,
+    "fleet_carriers": {
+      "carriers": 37391
+    },
     "population": 7062039452058,
     "powerplay": {
       "Edmund Mahon": 5940,
@@ -1438,7 +1548,9 @@
       "Empire": 12728,
       "Alliance": 3095
     },
-    "fleet_carriers": 37413,
+    "fleet_carriers": {
+      "carriers": 37413
+    },
     "population": 7068004400266,
     "powerplay": {
       "Edmund Mahon": 5891,
@@ -1464,7 +1576,9 @@
       "Empire": 12728,
       "Alliance": 3095
     },
-    "fleet_carriers": 37413,
+    "fleet_carriers": {
+      "carriers": 37413
+    },
     "population": 7068004400266,
     "powerplay": {
       "Edmund Mahon": 5891,
@@ -1490,7 +1604,9 @@
       "Empire": 12777,
       "Alliance": 3111
     },
-    "fleet_carriers": 37447,
+    "fleet_carriers": {
+      "carriers": 37447
+    },
     "population": 7081102330543,
     "powerplay": {
       "Edmund Mahon": 5885,
@@ -1516,7 +1632,9 @@
       "Empire": 12803,
       "Alliance": 3124
     },
-    "fleet_carriers": 37457,
+    "fleet_carriers": {
+      "carriers": 37457
+    },
     "population": 7085634859654,
     "powerplay": {
       "Edmund Mahon": 5838,
@@ -1542,7 +1660,9 @@
       "Empire": 12824,
       "Alliance": 3141
     },
-    "fleet_carriers": 37481,
+    "fleet_carriers": {
+      "carriers": 37481
+    },
     "population": 7093847366136,
     "powerplay": {
       "Edmund Mahon": 5897,
@@ -1568,7 +1688,9 @@
       "Empire": 12840,
       "Alliance": 3155
     },
-    "fleet_carriers": 37515,
+    "fleet_carriers": {
+      "carriers": 37515
+    },
     "population": 7099074092553,
     "powerplay": {
       "Edmund Mahon": 5588,
@@ -1594,7 +1716,9 @@
       "Empire": 12855,
       "Alliance": 3160
     },
-    "fleet_carriers": 37545,
+    "fleet_carriers": {
+      "carriers": 37545
+    },
     "population": 7103222773668,
     "powerplay": {
       "Edmund Mahon": 5851,
@@ -1620,7 +1744,9 @@
       "Empire": 12870,
       "Alliance": 3200
     },
-    "fleet_carriers": 37575,
+    "fleet_carriers": {
+      "carriers": 37575
+    },
     "population": 7107491233207,
     "powerplay": {
       "Edmund Mahon": 5999,
@@ -1646,7 +1772,9 @@
       "Empire": 12888,
       "Alliance": 3215
     },
-    "fleet_carriers": 37606,
+    "fleet_carriers": {
+      "carriers": 37606
+    },
     "population": 7114974893890,
     "powerplay": {
       "Edmund Mahon": 5811,
@@ -1672,7 +1800,9 @@
       "Empire": 12917,
       "Alliance": 3237
     },
-    "fleet_carriers": 37600,
+    "fleet_carriers": {
+      "carriers": 37600
+    },
     "population": 7121830467744,
     "powerplay": {
       "Edmund Mahon": 5759,
@@ -1698,7 +1828,9 @@
       "Empire": 12956,
       "Alliance": 3240
     },
-    "fleet_carriers": 37613,
+    "fleet_carriers": {
+      "carriers": 37613
+    },
     "population": 7128026095213,
     "powerplay": {
       "Edmund Mahon": 5555,
@@ -1724,7 +1856,9 @@
       "Empire": 12981,
       "Alliance": 3246
     },
-    "fleet_carriers": 37621,
+    "fleet_carriers": {
+      "carriers": 37621
+    },
     "population": 7133762756351,
     "powerplay": {
       "Edmund Mahon": 5643,
@@ -1750,7 +1884,9 @@
       "Empire": 13005,
       "Alliance": 3252
     },
-    "fleet_carriers": 37642,
+    "fleet_carriers": {
+      "carriers": 37642
+    },
     "population": 7140470584441,
     "powerplay": {
       "Edmund Mahon": 5516,
@@ -1776,7 +1912,9 @@
       "Empire": 13027,
       "Alliance": 3263
     },
-    "fleet_carriers": 37662,
+    "fleet_carriers": {
+      "carriers": 37662
+    },
     "population": 7145154968768,
     "powerplay": {
       "Edmund Mahon": 5731,
@@ -1802,7 +1940,9 @@
       "Empire": 13050,
       "Alliance": 3273
     },
-    "fleet_carriers": 37660,
+    "fleet_carriers": {
+      "carriers": 37660
+    },
     "population": 7149263356635,
     "powerplay": {
       "Edmund Mahon": 5805,
@@ -1828,7 +1968,9 @@
       "Empire": 13085,
       "Alliance": 3284
     },
-    "fleet_carriers": 37698,
+    "fleet_carriers": {
+      "carriers": 37698
+    },
     "population": 7155771756593,
     "powerplay": {
       "Edmund Mahon": 5707,
@@ -1854,7 +1996,9 @@
       "Empire": 13106,
       "Alliance": 3289
     },
-    "fleet_carriers": 37691,
+    "fleet_carriers": {
+      "carriers": 37691
+    },
     "population": 7161682615520,
     "powerplay": {
       "Edmund Mahon": 5712,
@@ -1880,7 +2024,9 @@
       "Empire": 13136,
       "Alliance": 3297
     },
-    "fleet_carriers": 37660,
+    "fleet_carriers": {
+      "carriers": 37660
+    },
     "population": 7167543825479,
     "powerplay": {
       "Edmund Mahon": 5756,
@@ -1906,7 +2052,9 @@
       "Empire": 13167,
       "Alliance": 3303
     },
-    "fleet_carriers": 37712,
+    "fleet_carriers": {
+      "carriers": 37712
+    },
     "population": 7174100947123,
     "powerplay": {
       "Edmund Mahon": 5832,
@@ -1932,7 +2080,9 @@
       "Empire": 13199,
       "Alliance": 3315
     },
-    "fleet_carriers": 37740,
+    "fleet_carriers": {
+      "carriers": 37740
+    },
     "population": 7179820132662,
     "powerplay": {
       "Edmund Mahon": 5727,
@@ -1958,7 +2108,9 @@
       "Empire": 13224,
       "Alliance": 3318
     },
-    "fleet_carriers": 37768,
+    "fleet_carriers": {
+      "carriers": 37768
+    },
     "population": 7189253568400,
     "powerplay": {
       "Edmund Mahon": 5315,
@@ -1984,7 +2136,9 @@
       "Empire": 13261,
       "Alliance": 3326
     },
-    "fleet_carriers": 37782,
+    "fleet_carriers": {
+      "carriers": 37782
+    },
     "population": 7197015694720,
     "powerplay": {
       "Edmund Mahon": 5319,
@@ -2010,7 +2164,9 @@
       "Empire": 13292,
       "Alliance": 3335
     },
-    "fleet_carriers": 37867,
+    "fleet_carriers": {
+      "carriers": 37867
+    },
     "population": 7206407467391,
     "powerplay": {
       "Edmund Mahon": 5566,
@@ -2036,7 +2192,9 @@
       "Empire": 13320,
       "Alliance": 3346
     },
-    "fleet_carriers": 37913,
+    "fleet_carriers": {
+      "carriers": 37913
+    },
     "population": 7213369477248,
     "powerplay": {
       "Edmund Mahon": 5542,
@@ -2062,7 +2220,9 @@
       "Empire": 13354,
       "Alliance": 3359
     },
-    "fleet_carriers": 37953,
+    "fleet_carriers": {
+      "carriers": 37953
+    },
     "population": 7222320052484,
     "powerplay": {
       "Edmund Mahon": 5676,
@@ -2088,7 +2248,9 @@
       "Empire": 13398,
       "Alliance": 3373
     },
-    "fleet_carriers": 38022,
+    "fleet_carriers": {
+      "carriers": 38022
+    },
     "population": 7230165187646,
     "powerplay": {
       "Edmund Mahon": 5860,
@@ -2114,7 +2276,9 @@
       "Empire": 13446,
       "Alliance": 3385
     },
-    "fleet_carriers": 38062,
+    "fleet_carriers": {
+      "carriers": 38062
+    },
     "population": 7234515160915,
     "powerplay": {
       "Edmund Mahon": 5757,
@@ -2140,7 +2304,9 @@
       "Empire": 13477,
       "Alliance": 3393
     },
-    "fleet_carriers": 38134,
+    "fleet_carriers": {
+      "carriers": 38134
+    },
     "population": 7243341333227,
     "powerplay": {
       "Edmund Mahon": 5783,
@@ -2166,7 +2332,9 @@
       "Empire": 13504,
       "Alliance": 3410
     },
-    "fleet_carriers": 38151,
+    "fleet_carriers": {
+      "carriers": 38151
+    },
     "population": 7249446984163,
     "powerplay": {
       "Edmund Mahon": 5756,
@@ -2192,7 +2360,9 @@
       "Empire": 13547,
       "Alliance": 3418
     },
-    "fleet_carriers": 38190,
+    "fleet_carriers": {
+      "carriers": 38190
+    },
     "population": 7257523141665,
     "powerplay": {
       "Edmund Mahon": 5436,
@@ -2218,7 +2388,9 @@
       "Empire": 13547,
       "Alliance": 3418
     },
-    "fleet_carriers": 38245,
+    "fleet_carriers": {
+      "carriers": 38245
+    },
     "population": 7264890963939,
     "powerplay": {
       "Edmund Mahon": 5436,
@@ -2244,7 +2416,9 @@
       "Empire": 13547,
       "Alliance": 3418
     },
-    "fleet_carriers": 38300,
+    "fleet_carriers": {
+      "carriers": 38300
+    },
     "population": 7272258786213,
     "powerplay": {
       "Edmund Mahon": 5436,
@@ -2270,7 +2444,9 @@
       "Empire": 13645,
       "Alliance": 3455
     },
-    "fleet_carriers": 38355,
+    "fleet_carriers": {
+      "carriers": 38355
+    },
     "population": 7279626608487,
     "powerplay": {
       "Edmund Mahon": 5531,
@@ -2296,7 +2472,9 @@
       "Empire": 13678,
       "Alliance": 3464
     },
-    "fleet_carriers": 38418,
+    "fleet_carriers": {
+      "carriers": 38418
+    },
     "population": 7287048167598,
     "powerplay": {
       "Edmund Mahon": 5773,
@@ -2322,7 +2500,9 @@
       "Empire": 13706,
       "Alliance": 3470
     },
-    "fleet_carriers": 38440,
+    "fleet_carriers": {
+      "carriers": 38440
+    },
     "population": 7294928634209,
     "powerplay": {
       "Edmund Mahon": 6025,
@@ -2348,7 +2528,9 @@
       "Empire": 13734,
       "Alliance": 3475
     },
-    "fleet_carriers": 38515,
+    "fleet_carriers": {
+      "carriers": 38515
+    },
     "population": 7301939285616,
     "powerplay": {
       "Edmund Mahon": 5934,
@@ -2374,7 +2556,9 @@
       "Empire": 13770,
       "Alliance": 3483
     },
-    "fleet_carriers": 38528,
+    "fleet_carriers": {
+      "carriers": 38528
+    },
     "population": 7310622335159,
     "powerplay": {
       "Edmund Mahon": 5829,
@@ -2400,7 +2584,9 @@
       "Empire": 13806,
       "Alliance": 3486
     },
-    "fleet_carriers": 38520,
+    "fleet_carriers": {
+      "carriers": 38520
+    },
     "population": 7315955455448,
     "powerplay": {
       "Edmund Mahon": 5448,
@@ -2426,7 +2612,9 @@
       "Empire": 13827,
       "Alliance": 3506
     },
-    "fleet_carriers": 38598,
+    "fleet_carriers": {
+      "carriers": 38598
+    },
     "population": 7322601929080,
     "powerplay": {
       "Edmund Mahon": 5733,
@@ -2452,7 +2640,9 @@
       "Empire": 13860,
       "Alliance": 3513
     },
-    "fleet_carriers": 38647,
+    "fleet_carriers": {
+      "carriers": 38647
+    },
     "population": 7330216478338,
     "powerplay": {
       "Edmund Mahon": 5685,
@@ -2478,7 +2668,9 @@
       "Empire": 13887,
       "Alliance": 3526
     },
-    "fleet_carriers": 38712,
+    "fleet_carriers": {
+      "carriers": 38712
+    },
     "population": 7337809654541,
     "powerplay": {
       "Edmund Mahon": 5925,
@@ -2504,7 +2696,9 @@
       "Empire": 13909,
       "Alliance": 3537
     },
-    "fleet_carriers": 38730,
+    "fleet_carriers": {
+      "carriers": 38730
+    },
     "population": 7344339052107,
     "powerplay": {
       "Edmund Mahon": 5586,
@@ -2530,7 +2724,9 @@
       "Empire": 13932,
       "Alliance": 3543
     },
-    "fleet_carriers": 38789,
+    "fleet_carriers": {
+      "carriers": 38789
+    },
     "population": 7352672886999,
     "powerplay": {
       "Edmund Mahon": 5769,
@@ -2556,7 +2752,9 @@
       "Empire": 13963,
       "Alliance": 3557
     },
-    "fleet_carriers": 38850,
+    "fleet_carriers": {
+      "carriers": 38850
+    },
     "population": 7360521893180,
     "powerplay": {
       "Edmund Mahon": 6069,
@@ -2582,7 +2780,9 @@
       "Empire": 13999,
       "Alliance": 3575
     },
-    "fleet_carriers": 38874,
+    "fleet_carriers": {
+      "carriers": 38874
+    },
     "population": 7369754276002,
     "powerplay": {
       "Edmund Mahon": 5885,
@@ -2608,7 +2808,9 @@
       "Empire": 14037,
       "Alliance": 3585
     },
-    "fleet_carriers": 38903,
+    "fleet_carriers": {
+      "carriers": 38903
+    },
     "population": 7379278170134,
     "powerplay": {
       "Edmund Mahon": 5844,
@@ -2634,7 +2836,9 @@
       "Empire": 14065,
       "Alliance": 3594
     },
-    "fleet_carriers": 38934,
+    "fleet_carriers": {
+      "carriers": 38934
+    },
     "population": 7388038075219,
     "powerplay": {
       "Edmund Mahon": 5994,
@@ -2660,7 +2864,9 @@
       "Empire": 14091,
       "Alliance": 3598
     },
-    "fleet_carriers": 38986,
+    "fleet_carriers": {
+      "carriers": 38986
+    },
     "population": 7396861295389,
     "powerplay": {
       "Edmund Mahon": 6041,
@@ -2686,7 +2892,9 @@
       "Federation": 10200,
       "Alliance": 3581
     },
-    "fleet_carriers": 39164,
+    "fleet_carriers": {
+      "carriers": 39164
+    },
     "population": 7414532099220,
     "powerplay": {
       "Edmund Mahon": 5982,
@@ -2712,7 +2920,10 @@
       "Empire": 14140,
       "Alliance": 3615
     },
-    "fleet_carriers": 39342,
+    "fleet_carriers": {
+      "carriers": 39079,
+      "squadron": 263
+    },
     "population": 7432202903052,
     "powerplay": {
       "Edmund Mahon": 5881,
@@ -2738,7 +2949,10 @@
       "Empire": 14176,
       "Alliance": 3622
     },
-    "fleet_carriers": 39434,
+    "fleet_carriers": {
+      "carriers": 39116,
+      "squadron": 318
+    },
     "population": 7457840734537,
     "powerplay": {
       "Edmund Mahon": 5387,
@@ -2764,7 +2978,10 @@
       "Empire": 14271,
       "Alliance": 3667
     },
-    "fleet_carriers": 39510,
+    "fleet_carriers": {
+      "carriers": 39121,
+      "squadron": 389
+    },
     "population": 7508207022960,
     "powerplay": {
       "Edmund Mahon": 5784,
@@ -2790,7 +3007,10 @@
       "Empire": 14344,
       "Alliance": 3693
     },
-    "fleet_carriers": 39514,
+    "fleet_carriers": {
+      "carriers": 39102,
+      "squadron": 412
+    },
     "population": 7528768714386,
     "powerplay": {
       "Edmund Mahon": 5708,
@@ -2816,7 +3036,10 @@
       "Empire": 14391,
       "Alliance": 3711
     },
-    "fleet_carriers": 39597,
+    "fleet_carriers": {
+      "carriers": 39171,
+      "squadron": 426
+    },
     "population": 7542516977808,
     "powerplay": {
       "Edmund Mahon": 5589,
@@ -2842,7 +3065,10 @@
       "Empire": 14433,
       "Alliance": 3727
     },
-    "fleet_carriers": 39643,
+    "fleet_carriers": {
+      "carriers": 39196,
+      "squadron": 447
+    },
     "population": 7553481550935,
     "powerplay": {
       "Edmund Mahon": 5468,
@@ -2868,7 +3094,10 @@
       "Empire": 14541,
       "Alliance": 3759
     },
-    "fleet_carriers": 39808,
+    "fleet_carriers": {
+      "carriers": 39327,
+      "squadron": 481
+    },
     "population": 7579623798853,
     "powerplay": {
       "Edmund Mahon": 5751,
@@ -2894,7 +3123,10 @@
       "Empire": 14632,
       "Alliance": 3801
     },
-    "fleet_carriers": 39852,
+    "fleet_carriers": {
+      "carriers": 39358,
+      "squadron": 494
+    },
     "population": 7605191838552,
     "powerplay": {
       "Edmund Mahon": 5687,
@@ -2920,7 +3152,10 @@
       "Empire": 14686,
       "Alliance": 3816
     },
-    "fleet_carriers": 39762,
+    "fleet_carriers": {
+      "carriers": 39263,
+      "squadron": 499
+    },
     "population": 7622505842195,
     "powerplay": {
       "Edmund Mahon": 5736,
@@ -2946,7 +3181,10 @@
       "Empire": 14736,
       "Alliance": 3838
     },
-    "fleet_carriers": 39784,
+    "fleet_carriers": {
+      "carriers": 39278,
+      "squadron": 506
+    },
     "population": 7633040295334,
     "powerplay": {
       "Edmund Mahon": 6003,
@@ -2972,7 +3210,10 @@
       "Empire": 14770,
       "Alliance": 3852
     },
-    "fleet_carriers": 39806,
+    "fleet_carriers": {
+      "carriers": 39297,
+      "squadron": 509
+    },
     "population": 7643088290640,
     "powerplay": {
       "Edmund Mahon": 6160,
@@ -2998,7 +3239,10 @@
       "Empire": 14801,
       "Alliance": 3876
     },
-    "fleet_carriers": 39792,
+    "fleet_carriers": {
+      "carriers": 39270,
+      "squadron": 522
+    },
     "population": 7653780822546,
     "powerplay": {
       "Edmund Mahon": 5828,
@@ -3024,7 +3268,10 @@
       "Empire": 14848,
       "Alliance": 3899
     },
-    "fleet_carriers": 39826,
+    "fleet_carriers": {
+      "carriers": 39293,
+      "squadron": 533
+    },
     "population": 7666351775395,
     "powerplay": {
       "Edmund Mahon": 5934,
@@ -3050,7 +3297,10 @@
       "Empire": 14900,
       "Alliance": 3921
     },
-    "fleet_carriers": 39855,
+    "fleet_carriers": {
+      "carriers": 39322,
+      "squadron": 533
+    },
     "population": 7680306165987,
     "powerplay": {
       "Edmund Mahon": 6038,
@@ -3076,7 +3326,10 @@
       "Empire": 14957,
       "Alliance": 3935
     },
-    "fleet_carriers": 39975,
+    "fleet_carriers": {
+      "carriers": 39425,
+      "squadron": 550
+    },
     "population": 7693637643284,
     "powerplay": {
       "Edmund Mahon": 6207,
@@ -3102,7 +3355,10 @@
       "Empire": 14991,
       "Alliance": 3951
     },
-    "fleet_carriers": 40032,
+    "fleet_carriers": {
+      "carriers": 39464,
+      "squadron": 568
+    },
     "population": 7708346294651,
     "powerplay": {
       "Edmund Mahon": 6538,
@@ -3128,7 +3384,10 @@
       "Empire": 15039,
       "Alliance": 3967
     },
-    "fleet_carriers": 40005,
+    "fleet_carriers": {
+      "carriers": 39435,
+      "squadron": 570
+    },
     "population": 7720802450942,
     "powerplay": {
       "Edmund Mahon": 6221,
@@ -3154,7 +3413,10 @@
       "Empire": 15081,
       "Alliance": 3982
     },
-    "fleet_carriers": 40003,
+    "fleet_carriers": {
+      "carriers": 39435,
+      "squadron": 568
+    },
     "population": 7735507435168,
     "powerplay": {
       "Edmund Mahon": 6232,
@@ -3180,7 +3442,10 @@
       "Empire": 15126,
       "Alliance": 4000
     },
-    "fleet_carriers": 40015,
+    "fleet_carriers": {
+      "carriers": 39441,
+      "squadron": 574
+    },
     "population": 7746819191051,
     "powerplay": {
       "Edmund Mahon": 6366,
@@ -3206,7 +3471,10 @@
       "Empire": 15164,
       "Alliance": 4019
     },
-    "fleet_carriers": 40055,
+    "fleet_carriers": {
+      "carriers": 39468,
+      "squadron": 587
+    },
     "population": 7760272863417,
     "powerplay": {
       "Edmund Mahon": 6259,
@@ -3232,7 +3500,10 @@
       "Empire": 15202,
       "Alliance": 4039
     },
-    "fleet_carriers": 40060,
+    "fleet_carriers": {
+      "carriers": 39468,
+      "squadron": 592
+    },
     "population": 7770386262332,
     "powerplay": {
       "Edmund Mahon": 6282,
@@ -3258,7 +3529,10 @@
       "Empire": 15262,
       "Alliance": 4058
     },
-    "fleet_carriers": 40083,
+    "fleet_carriers": {
+      "carriers": 39489,
+      "squadron": 595
+    },
     "population": 7785977179003,
     "powerplay": {
       "Edmund Mahon": 6055,
@@ -3284,7 +3558,10 @@
       "Empire": 15297,
       "Alliance": 4081
     },
-    "fleet_carriers": 40099,
+    "fleet_carriers": {
+      "carriers": 39492,
+      "squadron": 607
+    },
     "population": 7800365353931,
     "powerplay": {
       "Edmund Mahon": 6346,
@@ -3310,7 +3587,10 @@
       "Empire": 15325,
       "Alliance": 4101
     },
-    "fleet_carriers": 40128,
+    "fleet_carriers": {
+      "carriers": 39515,
+      "squadron": 613
+    },
     "population": 7813963602852,
     "powerplay": {
       "Edmund Mahon": 6220,
@@ -3336,7 +3616,10 @@
       "Empire": 15359,
       "Alliance": 4112
     },
-    "fleet_carriers": 40114,
+    "fleet_carriers": {
+      "carriers": 39504,
+      "squadron": 610
+    },
     "population": 7823771717987,
     "powerplay": {
       "Edmund Mahon": 6343,
@@ -3362,7 +3645,10 @@
       "Empire": 15388,
       "Alliance": 4118
     },
-    "fleet_carriers": 40155,
+    "fleet_carriers": {
+      "carriers": 39539,
+      "squadron": 616
+    },
     "population": 7835324416865,
     "powerplay": {
       "Edmund Mahon": 6352,
@@ -3388,7 +3674,10 @@
       "Empire": 15417,
       "Alliance": 4142
     },
-    "fleet_carriers": 40202,
+    "fleet_carriers": {
+      "carriers": 39585,
+      "squadron": 617
+    },
     "population": 7849662726969,
     "powerplay": {
       "Edmund Mahon": 6057,
@@ -3414,7 +3703,10 @@
       "Empire": 15456,
       "Alliance": 4166
     },
-    "fleet_carriers": 40250,
+    "fleet_carriers": {
+      "carriers": 39634,
+      "squadron": 616
+    },
     "population": 7863236501012,
     "powerplay": {
       "Edmund Mahon": 6112,
@@ -3440,7 +3732,10 @@
       "Empire": 15507,
       "Alliance": 4183
     },
-    "fleet_carriers": 40280,
+    "fleet_carriers": {
+      "carriers": 39654,
+      "squadron": 626
+    },
     "population": 7878150276484,
     "powerplay": {
       "Edmund Mahon": 6259,
@@ -3466,7 +3761,10 @@
       "Empire": 15558,
       "Alliance": 4215
     },
-    "fleet_carriers": 40330,
+    "fleet_carriers": {
+      "carriers": 39694,
+      "squadron": 636
+    },
     "population": 7893353813153,
     "powerplay": {
       "Edmund Mahon": 6291,
@@ -3492,7 +3790,10 @@
       "Empire": 15584,
       "Alliance": 4227
     },
-    "fleet_carriers": 40366,
+    "fleet_carriers": {
+      "carriers": 39733,
+      "squadron": 633
+    },
     "population": 7905521085642,
     "powerplay": {
       "Edmund Mahon": 6441,
@@ -3518,7 +3819,10 @@
       "Empire": 15618,
       "Alliance": 4237
     },
-    "fleet_carriers": 40410,
+    "fleet_carriers": {
+      "carriers": 39770,
+      "squadron": 640
+    },
     "population": 7916947827556,
     "powerplay": {
       "Edmund Mahon": 6523,
@@ -3544,7 +3848,10 @@
       "Empire": 15646,
       "Alliance": 4262
     },
-    "fleet_carriers": 40431,
+    "fleet_carriers": {
+      "carriers": 39782,
+      "squadron": 649
+    },
     "population": 7929125193202,
     "powerplay": {
       "Edmund Mahon": 6473,

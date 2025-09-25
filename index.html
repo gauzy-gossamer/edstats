@@ -183,6 +183,8 @@ async function buildChart(plotType) {
         ["Yuri Grom", "#00FF00"],
         ["Nakato Kaine", "#FFFF00"],
         ["Edmund Mahon", "#FFFF00"],
+
+        ["squadron", "#FF0000"],
     ]);
     const fieldNames = {
         "population": {"label": "Population", "yLabel": "Population"},
@@ -205,8 +207,8 @@ async function buildChart(plotType) {
         const fields = fieldNames[plotType];
 
         const datasets = new Array();
-        if (plotType === "allegiance" || plotType === "powerplay") {
-            for (const subType of Object.keys(vals[0])) {
+        if (plotType === "allegiance" || plotType === "powerplay" || plotType === "fleet_carriers") {
+            for (const subType of Object.keys(vals[vals.length-1])) {
                 const subVals = new Array();
 
                 for (const pair of vals) {
