@@ -163,38 +163,39 @@
     </div>
 
   <script type="text/javascript">
+const colors = new Map([
+    ["Independent", "#00FF00"],
+    ["Alliance", "#FFFF00"],
+    ["Empire", "#0000FF"],
+    ["Federation", "#FF0000"],
+
+    ["Jerome Archer", "#FF0000"],
+    ["Felicia Winters", "#FF0000"],
+    ["Aisling Duval", "#0000FF"],
+    ["A. Lavigny-Duval", "#0000FF"],
+    ["Denton Patreus", "#0000FF"],
+    ["Zemina Torval", "#0000FF"],
+    ["Archon Delaine", "#00FF00"],
+    ["Li Yong-Rui", "#00FF00"],
+    ["Pranav Antal", "#00FF00"],
+    ["Yuri Grom", "#00FF00"],
+    ["Nakato Kaine", "#FFFF00"],
+    ["Edmund Mahon", "#FFFF00"],
+
+    ["squadron", "#FF0000"],
+]);
+const fieldNames = {
+    "population": {"label": "Population", "yLabel": "Population", "legend": false},
+    "allegiance": {"label": "Allegiance", "yLabel": "Systems", "legend": true},
+    "fleet_carriers": {"label": "Fleet Carriers", "yLabel": "Fleet Carriers", "legend": true},
+    "systems": {"label": "Number of Systems", "yLabel": "Colonized per day", "legend": false},
+    "powerplay": {"label": "Powerplay", "yLabel": "Power", "legend": true, "legend_position": 'left'},
+};
+
 let chart = undefined;
 async function buildChart(plotType) {
-    const colors = new Map([
-        ["Independent", "#00FF00"],
-        ["Alliance", "#FFFF00"],
-        ["Empire", "#0000FF"],
-        ["Federation", "#FF0000"],
-
-        ["Jerome Archer", "#FF0000"],
-        ["Felicia Winters", "#FF0000"],
-        ["Aisling Duval", "#0000FF"],
-        ["A. Lavigny-Duval", "#0000FF"],
-        ["Denton Patreus", "#0000FF"],
-        ["Zemina Torval", "#0000FF"],
-        ["Archon Delaine", "#00FF00"],
-        ["Li Yong-Rui", "#00FF00"],
-        ["Pranav Antal", "#00FF00"],
-        ["Yuri Grom", "#00FF00"],
-        ["Nakato Kaine", "#FFFF00"],
-        ["Edmund Mahon", "#FFFF00"],
-
-        ["squadron", "#FF0000"],
-    ]);
-    const fieldNames = {
-        "population": {"label": "Population", "yLabel": "Population"},
-        "allegiance": {"label": "Allegiance", "yLabel": "Systems"},
-        "fleet_carriers": {"label": "Fleet Carriers", "yLabel": "Fleet Carriers"},
-        "systems": {"label": "Number of Systems", "yLabel": "Colonized per day"},
-        "powerplay": {"label": "Powerplay", "yLabel": "Power"},
-    };
     try {
-        const response = await fetch('data/stats.json?dt20250925');
+        const response = await fetch('data/stats.json?dt20250927');
         if (!response.ok) {
             throw new Error("Could not fetch statistics");
         }
@@ -250,7 +251,8 @@ async function buildChart(plotType) {
                 responsive: true,
                 plugins: {
                     legend: {
-                        display: false
+                        display: fields['legend'],
+                        position: "legend_position" in fields ? fields['legend_position'] : "top",
                     },
                     tooltip: {
                         callbacks: {
@@ -302,7 +304,7 @@ async function buildChart(plotType) {
 
     Ed3d.init({
         container   : 'edmap',
-        jsonPath    : "data/systems.json?dt20250925",
+        jsonPath    : "data/systems.json?dt20250927",
         withHudPanel : true,
         hudMultipleSelect : false,
 //        effectScaleSystem : [500,10000],
